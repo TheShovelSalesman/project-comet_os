@@ -1,0 +1,27 @@
+/*
+richlistitem[type ~= "smarterwiki-suggest"] > hbox {
+    list-style-image: url("chrome://smarterwiki/content/wiki-bubble-square.png");
+}
+
+richlistitem[type ~= "smarterwiki-suggest"][selected='true'] > hbox {
+    background-color: transparent; #DDDDDD
+}
+*/
+
+/* 
+For options.xul
+*/
+#smarterwikiOptions radio[pane] {
+  padding: 5px 3px 1px;
+}
+
+#smarterwikiOptions 
+{
+    width: 35em;
+    min-height: 35em !important;
+}
+
+#smarterwikiOptions .search-engines-column
+{
+    width: 15em;
+}

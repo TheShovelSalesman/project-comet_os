@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE window SYSTEM "chrome://smarterwiki/locale/smarterwiki.dtd">
+
+<?xml-stylesheet href="chrome://smarterwiki/content/smarterwiki.css" type="text/css"?>
+
+<overlay id="smarterwiki-overlay"
+    xmlns:html="http://www.w3.org/1999/xhtml"
+    xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+    
+    <stringbundleset id="stringbundleset">
+        <!--
+        For some reason the id must be exactly that or it will fail :(
+        -->
+        <stringbundle id="smarterwiki_strings" 
+                      src="chrome://smarterwiki/locale/strings.properties"/>
+    </stringbundleset>
+    
+    <script type="application/x-javascript"
+            src="smarterwiki.js"/>
+    
+    <menupopup id="menu_ToolsPopup">
+        <menuitem label="&extension.name;"
+                  oncommand="SmarterWiki.showOptions();" 
+                  insertafter="devToolsSeparator"
+                  class="menuitem-iconic"
+                  image="chrome://smarterwiki/skin/smarterfox-logo-32x32.png"
+                  />
+        <!--
+                  insertafter="menu_openAddons"
+        -->
+    </menupopup>
+
+    <popup id="contentAreaContextMenu">
+        <menuitem id="smarterwiki-download-media"
+              label="&contextMenu.downloadPageMedia;"
+              oncommand="SmarterWiki.doDownloadPageMedia()"
+              insertbefore="context-searchselect"
+              class="menuitem-iconic"
+              image="chrome://smarterwiki/skin/smarterfox-logo-32x32.png"
+              />
+        <menuitem id="smarterwiki-download-links"
+                  label="&contextMenu.downloadPageLinks;"
+                  oncommand="SmarterWiki.doDownloadPageLinks()"
+                  insertbefore="context-searchselect"
+                  class="menuitem-iconic"
+                  image="chrome://smarterwiki/skin/smarterfox-logo-32x32.png"
+                  />
+        <menuitem id="smarterwiki-download-images"
+                  label="&contextMenu.downloadPageImages;"
+                  oncommand="SmarterWiki.doDownloadPageImages()"
+                  insertbefore="context-searchselect"
+                  class="menuitem-iconic"
+                  image="chrome://smarterwiki/skin/smarterfox-logo-32x32.png"
+                  />
+        <menuitem id="smarterwiki-download-selection"
+                  label="&contextMenu.downloadSelection;"
+                  oncommand="SmarterWiki.doDownloadSelection()"
+                  insertbefore="context-searchselect"
+                  class="menuitem-iconic"
+                  image="chrome://smarterwiki/skin/smarterfox-logo-32x32.png"
+                  />
+        <menuitem id="smarterwiki-remove-selection"
+                  label="&contextMenu.removeSelection;"
+                  oncommand="SmarterWiki.doRemoveSelection()"
+                  insertbefore="context-searchselect"
+                  class="menuitem-iconic"
+                  image="chrome://smarterwiki/skin/smarterfox-logo-32x32.png"
+                  />
+
+        <menuitem id="smarterwiki-search-selection" 
+                  label="&contextMenu.searchWikipedia;"
+                  oncommand="SmarterWiki.doSearchSelection()"
+                  insertbefore="context-searchselect"
+                  class="menuitem-iconic"
+                  image="chrome://smarterwiki/skin/wikipedia.org-favicon.ico"
+                  />
+    </popup>
+</overlay>

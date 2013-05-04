@@ -1,0 +1,320 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE window SYSTEM "chrome://smarterwiki/locale/smarterwiki.dtd">
+
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+<?xml-stylesheet href="chrome://smarterwiki/skin/smarterwiki.css" type="text/css"?>
+
+
+<prefwindow id="smarterwikiOptions"
+            xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"
+            title="&options.window.title;"
+            windowtype="SmarterWikiOptions">
+            
+    <prefpane id="SmarterWikiOptions_general" label="&options.generalOptions;" image="chrome://smarterwiki/skin/smarterfox-logo-inner.png"> 
+        <preferences>
+            <preference id="SmarterWikiOptions_enable_linkify"
+                        name="extensions.smarterwiki.enable_linkify"
+                        type="bool" />
+
+            <preference id="SmarterWikiOptions_add_related_articles"
+                        name="extensions.smarterwiki.add_related_articles"
+                        type="bool" />
+
+            <preference id="SmarterWikiOptions_show_context_menu_additions"
+                        name="extensions.smarterwiki.show_context_menu_additions"
+                        type="bool" />
+
+            <preference id="SmarterWikiOptions_enable_endless_pages"
+                        name="extensions.smarterwiki.enable_endless_pages"
+                        type="bool" />
+
+            <preference id="SmarterWikiOptions_auto_copy_selected"
+                        name="extensions.smarterwiki.auto_copy_selected"
+                        type="bool" />
+
+            <preference id="SmarterWikiOptions_enable_middle_click_paste"
+                        name="extensions.smarterwiki.enable_middle_click_paste"
+                        type="bool" />
+
+            <preference id="SmarterWikiOptions_enable_right_click_paste"
+                        name="extensions.smarterwiki.enable_right_click_paste"
+                        type="bool" />
+        </preferences>
+        <vbox>
+            <checkbox preference="SmarterWikiOptions_enable_linkify" 
+                      label="&options.enableLinkify;" />
+            <checkbox preference="SmarterWikiOptions_add_related_articles" 
+                      label="&options.addRelatedArticles;" />
+            <checkbox preference="SmarterWikiOptions_show_context_menu_additions" 
+                      label="&options.showContextMenuAdditions;" />
+            <checkbox preference="SmarterWikiOptions_enable_endless_pages" 
+                      label="&options.enableEndlessPages;" />
+            <groupbox>
+                <caption label="&options.copyPaste;" />
+                <checkbox preference="SmarterWikiOptions_auto_copy_selected" 
+                          label="&options.autoCopySelected;" />
+                <checkbox preference="SmarterWikiOptions_enable_middle_click_paste" 
+                          label="&options.enableMiddleMousePaste;" />
+                <checkbox preference="SmarterWikiOptions_enable_right_click_paste" 
+                          label="&options.enableRightMousePaste;" />
+            </groupbox>
+            <groupbox>
+                <caption label="&options.feedbackCaption;" />
+                <label id="feedback-link" class="text-link" value="&options.feedbackLabel;"
+                    onclick="openURL('http://smarterfox.com/feedback/');"
+                />
+            </groupbox>
+            <!--
+            <description>
+                <html:a href="#" id="feedback-link" target="_blank">
+                    &options.feedbackLabel;
+                </html:a>
+            </description>
+            -->        
+        </vbox>
+    </prefpane>
+    
+
+    <prefpane id="SmarterWikiOptions_search_results" image="chrome://smarterwiki/skin/search-results-icon.png"
+              label="&options.searchResultsOptions;"> 
+        <preferences>
+            <preference id="SmarterWikiOptions_add_serp_info_box"
+                        name="extensions.smarterwiki.add_serp_info_box"
+                        type="bool" />
+
+            <preference id="SmarterWikiOptions_add_related_searches"
+                        name="extensions.smarterwiki.add_related_searches"
+                        type="bool" />
+            <preference id="SmarterWikiOptions_add_related_search_results_amazon"
+                        name="extensions.smarterwiki.add_related_shopping_results"
+                        type="bool" />
+            <!--
+            <preference id="SmarterWikiOptions_add_related_search_results_oneriot"
+                        name="extensions.smarterwiki.add_related_search_results_oneriot"
+                        type="bool" />
+            <preference id="SmarterWikiOptions_add_trending_search_results_oneriot"
+                        name="extensions.smarterwiki.add_trending_search_results_oneriot"
+                        type="bool" />
+            -->
+            <preference id="SmarterWikiOptions_add_search_refinements"
+                        name="extensions.smarterwiki.add_search_refinements"
+                        type="bool" />
+            <preference id="SmarterWikiOptions_add_similar_product_search"
+                        name="extensions.smarterwiki.add_similar_product_search"
+                        type="bool" />
+        </preferences>
+        <vbox>
+            <checkbox preference="SmarterWikiOptions_add_serp_info_box" 
+                      label="&options.addSerpInfoBox;" />
+            <checkbox preference="SmarterWikiOptions_add_related_searches" 
+                      label="&options.addOtherSearchEngines;" />
+            <checkbox preference="SmarterWikiOptions_add_related_search_results_amazon" 
+                      label="&options.addRelatedSearchResultsAmazon;" />
+            <!--
+            <checkbox preference="SmarterWikiOptions_add_related_search_results_oneriot" 
+                      label="&options.addRelatedSearchResultsOneriot;" />
+            <checkbox preference="SmarterWikiOptions_add_trending_search_results_oneriot" 
+                      label="&options.addTrendingSearchResultsOneriot;" />
+            -->
+            <checkbox preference="SmarterWikiOptions_add_search_refinements" 
+                      label="&options.addSearchRefinements;" />
+            <checkbox preference="SmarterWikiOptions_add_similar_product_search" 
+                      label="&options.addSimilarProductSearch;" />
+        </vbox>
+    </prefpane>
+
+
+    <!--
+    <prefpane id="SmarterWikiOptions_qLauncher" image="chrome://smarterwiki/skin/qlauncher-icon.png"
+              label="&options.qlauncherOptions;"> 
+        <preferences>
+            <preference id="SmarterWikiOptions_enable_qlauncher"
+                        name="extensions.smarterwiki.enable_qlauncher"
+                        type="bool" />
+
+            <preference id="SmarterWikiOptions_qlauncher_open_new_tab"
+                        name="extensions.smarterwiki.qlauncher_open_new_tab"
+                        type="bool" />
+        </preferences>
+        <vbox>
+            <checkbox id="enable-qlauncher-checkbox" preference="SmarterWikiOptions_enable_qlauncher" label="&options.enableQlauncher;" />
+            <vbox>
+                <label control="shortcut-key-textbox" value="&options.invokeQlauncher;"/>
+                <textbox id="shortcut-key-textbox" style="cursor: pointer;" value="" />
+            </vbox>
+            <checkbox id="qlauncher-open-new-tab-checkbox" preference="SmarterWikiOptions_qlauncher_open_new_tab" label="&options.qlauncherOpenNewTab;" />
+        </vbox>
+    </prefpane>
+    -->
+
+    <prefpane id="SmarterWikiOptions_popup_bubble" image="chrome://smarterwiki/skin/popup-bubble-icon-square.png"
+              label="&options.popupBubbleOptions;"> 
+        <preferences>
+            <preference id="SmarterWikiOptions_show_popup_bubble"
+                        name="extensions.smarterwiki.show_popup_bubble"
+                        type="bool" />
+
+            <preference id="SmarterWikiOptions_popup_bubble_display_above_text"
+                        name="extensions.smarterwiki.popup_bubble_display_above_text"
+                        type="bool" />
+
+            <preference id="SmarterWikiOptions_popup_bubble_open_new_tab"
+                        name="extensions.smarterwiki.popup_bubble_open_new_tab"
+                        type="bool" />
+
+            <preference id="SmarterWikiOptions_search_wikipedia"
+                        name="extensions.smarterwiki.search_wikipedia"
+                        type="bool" />
+
+            <preference id="SmarterWikiOptions_search_imdb"
+                        name="extensions.smarterwiki.search_imdb"
+                        type="bool" />
+
+            <preference id="SmarterWikiOptions_search_yandex"
+                        name="extensions.smarterwiki.search_yandex"
+                        type="bool" />
+
+            <preference id="SmarterWikiOptions_search_delicious"
+                        name="extensions.smarterwiki.search_delicious"
+                        type="bool" />
+
+            <preference id="SmarterWikiOptions_search_twitter"
+                        name="extensions.smarterwiki.search_twitter"
+                        type="bool" />
+
+            <preference id="SmarterWikiOptions_search_duckduckgo"
+                        name="extensions.smarterwiki.search_duckduckgo"
+                        type="bool" />
+
+            <preference id="SmarterWikiOptions_search_surfcanyon"
+                        name="extensions.smarterwiki.search_surfcanyon"
+                        type="bool" />
+
+            <preference id="SmarterWikiOptions_search_bing"
+                        name="extensions.smarterwiki.search_bing"
+                        type="bool" />
+
+            <preference id="SmarterWikiOptions_search_baidu"
+                        name="extensions.smarterwiki.search_baidu"
+                        type="bool" />
+
+            <preference id="SmarterWikiOptions_search_reddit"
+                        name="extensions.smarterwiki.search_reddit"
+                        type="bool" />
+
+            <preference id="SmarterWikiOptions_search_youtube"
+                        name="extensions.smarterwiki.search_youtube"
+                        type="bool" />
+
+            <preference id="SmarterWikiOptions_search_wiktionary"
+                        name="extensions.smarterwiki.search_wiktionary"
+                        type="bool" />
+
+            <preference id="SmarterWikiOptions_search_google"
+                        name="extensions.smarterwiki.search_google"
+                        type="bool" />
+
+            <preference id="SmarterWikiOptions_search_google_maps"
+                        name="extensions.smarterwiki.search_google_maps"
+                        type="bool" />
+
+            <preference id="SmarterWikiOptions_search_blekko"
+                        name="extensions.smarterwiki.search_blekko"
+                        type="bool" />
+
+            <preference id="SmarterWikiOptions_popup_bubble_force_single_row"
+                        name="extensions.smarterwiki.popup_bubble_force_single_row"
+                        type="bool" />
+                        
+            <preference id="SmarterWikiOptions_popup_bubble_show_definitions"
+                        name="extensions.smarterwiki.popup_bubble_show_definitions"
+                        type="bool" />
+
+            <preference id="SmarterWikiOptions_popup_bubble_show_link_info"
+                        name="extensions.smarterwiki.popup_bubble_show_link_info"
+                        type="bool" />
+
+            <preference id="SmarterWikiOptions_popup_bubble_show_link_info_always"
+                        name="extensions.smarterwiki.popup_bubble_show_link_info_always"
+                        type="bool" />
+
+        </preferences>
+        <vbox>
+            <checkbox id="show-popup-bubble-checkbox" preference="SmarterWikiOptions_show_popup_bubble" label="&options.showPopupBubble;" />
+            <checkbox id="show-popup-bubble-checkbox" preference="SmarterWikiOptions_popup_bubble_display_above_text" label="&options.popupBubbleDisplayAboveText;" />
+            <groupbox>
+                <caption label="&options.searchEngines.caption;" />
+                <hbox>
+                    <vbox class="search-engines-column">
+                        <checkbox class="search-checkbox" id="search-wikipedia-checkbox" preference="SmarterWikiOptions_search_wikipedia" 
+                                  label="&options.searchEngines.Wikipedia;" />
+                        <checkbox class="search-checkbox" id="search-imdb-checkbox" preference="SmarterWikiOptions_search_imdb" 
+                                  label="&options.searchEngines.IMDB;" />
+                        <checkbox class="search-checkbox" id="search-yandex-checkbox" preference="SmarterWikiOptions_search_yandex" 
+                                  label="&options.searchEngines.Yandex;" />
+                        <checkbox class="search-checkbox" id="search-delicious-checkbox" preference="SmarterWikiOptions_search_delicious" 
+                                  label="&options.searchEngines.Delicious;" />
+                        <checkbox class="search-checkbox" id="search-twitter-checkbox" preference="SmarterWikiOptions_search_twitter" 
+                                  label="&options.searchEngines.Twitter;" />
+                        <checkbox class="search-checkbox" id="search-duckduckgo-checkbox" preference="SmarterWikiOptions_search_duckduckgo" 
+                                  label="Search DuckDuckGo" />
+                        <checkbox class="search-checkbox" id="search-surfcanyon-checkbox" preference="SmarterWikiOptions_search_surfcanyon" 
+                                  label="&options.searchEngines.SurfCanyon;" />
+                    </vbox>
+                    <vbox class="search-engines-column">
+                        <checkbox class="search-checkbox" id="search-bing-checkbox" preference="SmarterWikiOptions_search_bing" 
+                                  label="&options.searchEngines.Bing;" />
+                        <checkbox class="search-checkbox" id="search-baidu-checkbox" preference="SmarterWikiOptions_search_baidu" 
+                                  label="&options.searchEngines.Baidu;" />
+                        <!--
+                        <checkbox class="search-checkbox" id="search-reddit-checkbox" preference="SmarterWikiOptions_search_reddit" 
+                                  label="&options.searchEngines.Reddit;" />
+                        -->
+                        <checkbox class="search-checkbox" id="search-youtube-checkbox" preference="SmarterWikiOptions_search_youtube" 
+                                  label="&options.searchEngines.YouTube;" />
+                        <checkbox class="search-checkbox" id="search-wiktionary-checkbox" preference="SmarterWikiOptions_search_wiktionary" 
+                                  label="&options.searchEngines.Wiktionary;" />
+                        <checkbox class="search-checkbox" id="search-google-checkbox" preference="SmarterWikiOptions_search_google" 
+                                  label="&options.searchEngines.Google;" />
+                        <checkbox class="search-checkbox" id="search-google-maps-checkbox" preference="SmarterWikiOptions_search_google_maps" 
+                                  label="&options.searchEngines.GoogleMaps;" />
+                        <checkbox class="search-checkbox" id="search-blekko" preference="SmarterWikiOptions_search_blekko" 
+                                  label="&options.searchEngines.Blekko;" />
+                    </vbox>
+                </hbox>
+            </groupbox>
+            <checkbox id="popup-bubble-show-definitions-checkbox" preference="SmarterWikiOptions_popup_bubble_show_definitions" 
+                      label="&options.popupBubbleShowDefinitions;" />
+            <checkbox id="popup-bubble-show-link-info-checkbox" preference="SmarterWikiOptions_popup_bubble_show_link_info" 
+                      label="&options.popupBubbleShowLinkInfo;" />
+            <checkbox id="popup-bubble-show-link-info-always-checkbox" preference="SmarterWikiOptions_popup_bubble_show_link_info_always" 
+                      label="&options.popupBubbleShowLinkInfoAlways;" />
+            <checkbox id="popup-bubble-open-new-tab-checkbox" preference="SmarterWikiOptions_popup_bubble_open_new_tab" 
+                      label="&options.popupBubbleOpenNewTab;" />
+            <checkbox id="popup-bubble-force-single-row-checkbox" preference="SmarterWikiOptions_popup_bubble_force_single_row" 
+                      label="&options.popupBubbleForceSingleRow;" />
+        </vbox>
+    </prefpane>
+
+
+    <stringbundleset id="stringbundleset">
+        <!--
+        For some reason the id must be exactly that or it will fail :(
+        -->
+        <stringbundle id="smarterwiki_strings" 
+                      src="chrome://smarterwiki/locale/strings.properties"/>
+    </stringbundleset>
+
+    <script type="application/javascript" 
+            src="chrome://global/content/contentAreaUtils.js" /><!-- opens the survey in new tab -->
+
+    <script type="application/x-javascript"
+            src="chrome://smarterwiki/content/jquery-1.2.6.js" />
+
+    <script type="application/x-javascript"
+            src="chrome://smarterwiki/content/options.js" />
+    <!--
+    script must come after all prefpanes or bad things will happen according to MDC
+    -->
+</prefwindow>

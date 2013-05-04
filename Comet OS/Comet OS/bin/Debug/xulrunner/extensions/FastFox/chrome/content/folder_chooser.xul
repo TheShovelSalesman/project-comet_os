@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE window SYSTEM "chrome://smarterwiki/locale/smarterwiki.dtd">
+
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+<?xml-stylesheet href="chrome://smarterwiki/content/smarterwiki.css" type="text/css"?>
+
+
+<dialog id="SW_FolderChooser" 
+        title="&folder_chooser.choose_folder;"
+        buttons="accept,cancel"
+        persist="screenX screenY"
+        spacerflex="1"
+        ondialogaccept="FolderChooser.ondialogaccept()"
+        ondialogcancel="FolderChooser.ondialogcancel()"
+        xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+    <stringbundleset id="stringbundleset">
+        <!--
+        For some reason the id must be exactly that or it will fail :(
+        -->
+        <stringbundle id="smarterwiki_strings" 
+                      src="chrome://smarterwiki/locale/strings.properties"/>
+    </stringbundleset>
+
+    <script type="application/x-javascript"
+            src="chrome://smarterwiki/content/jquery-1.2.6.js" />
+    <script type="application/x-javascript" src="folder_chooser.js" />
+
+    <vbox>
+        <label id="dest-folder-label" value="&folder_chooser.destination_folder;" class="header" />
+        <hbox>
+            <textbox id="dest-folder-textbox" minwidth="350" maxwidth="450" value="" />
+            <button id="browse-button" oncommand="FolderChooser.onbrowsecommand()" label="&folder_chooser.browse;" />
+        </hbox>
+    </vbox>
+</dialog>

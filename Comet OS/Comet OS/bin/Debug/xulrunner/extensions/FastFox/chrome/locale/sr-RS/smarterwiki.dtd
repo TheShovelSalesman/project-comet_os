@@ -1,0 +1,65 @@
+<!ENTITY extension.name "FastestFox">
+<!ENTITY contextMenu.downloadPageMedia "Преузми медијуме">
+<!ENTITY contextMenu.downloadPageLinks "Преузми везе">
+<!ENTITY contextMenu.downloadPageImages "Преузми слике">
+<!ENTITY contextMenu.downloadAllLinks "Преузми све везе">
+<!ENTITY contextMenu.downloadAllImages "Преузми све слике">
+<!ENTITY contextMenu.downloadSelection "Преузми изабрано">
+<!ENTITY contextMenu.searchWikipedia "Претражи изабрано на Википедији">
+<!ENTITY contextMenu.removeSelection "Уклони изабрано">
+<!ENTITY options.window.title "FastestFox поставке">
+<!ENTITY options.generalOptions "Опште">
+<!ENTITY options.searchOptions "Поставке претраге">
+<!ENTITY options.showPopupBubble "Прикажи искачући прозор">
+<!ENTITY options.enhanceUrlbar "Повећај „страва траку“ (потребно је поновно покретање)">
+<!ENTITY options.showContextMenuAdditions "Прикажи додатке контекстног менија">
+<!ENTITY options.enableEndlessPages "Омогући бескрајне стране">
+<!ENTITY options.copyPaste "Умножи и налепи">
+<!ENTITY options.wikipediaOptions "Поставке Википедије">
+<!ENTITY options.addRelatedArticles "Додај бочну палету „сродни чланци“ на Википедију">
+<!ENTITY options.addOtherSearchEngines "Додај остале претраживаче у резултате">
+<!ENTITY options.qlauncherOptions "qLauncher">
+<!ENTITY options.enableQlauncher "Омогући qLauncher">
+<!ENTITY options.invokeQlauncher "Призови qLauncher кликом на:">
+<!ENTITY options.qlauncherOpenNewTab "Отвори у новом језичку">
+<!ENTITY options.copyAndPasteOptions "Опције умножавања и налепљивања">
+<!ENTITY options.autoCopySelected "Аутоматски умножи изабрано">
+<!ENTITY options.enableMiddleMousePaste "Налепи са средњим кликом">
+<!ENTITY options.enableRightMousePaste "Налепи с десним кликом">
+<!ENTITY options.enableLinkify "Претвори текстуалне везе у кликајуће">
+<!ENTITY options.otherOptions "Остало">
+<!ENTITY options.feedbackCaption "Повратна информација">
+<!ENTITY options.feedbackLabel "Коментари, предлози, или пријава грешака">
+<!ENTITY options.popupBubbleOptions "Искачући прозор">
+<!ENTITY options.popupBubbleDisplayAboveText "Display above text">
+<!ENTITY options.popupBubbleShowDefinitions "Прикажи дефиниције">
+<!ENTITY options.popupBubbleShowLinkInfo "Show link info (Facebook / Twitter)">
+<!ENTITY options.popupBubbleShowLinkInfoAlways "Always show link info">
+<!ENTITY options.popupBubbleOpenNewTab "Отвори у новом језичку">
+<!ENTITY options.popupBubbleForceSingleRow "Прикажи у једном реду">
+<!ENTITY options.searchEngines.caption "Претраживачи">
+<!ENTITY options.searchEngines.Wikipedia "Search Wikipedia">
+<!ENTITY options.searchEngines.OneRiot "OneRiot">
+<!ENTITY options.searchEngines.IMDB "Search IMDB">
+<!ENTITY options.searchEngines.Yandex "Yandex">
+<!ENTITY options.searchEngines.Delicious "Delicious">
+<!ENTITY options.searchEngines.Twitter "Twitter">
+<!ENTITY options.searchEngines.SurfCanyon "Surf Canyon">
+<!ENTITY options.searchEngines.Bing "Bing">
+<!ENTITY options.searchEngines.Baidu "Baidu">
+<!ENTITY options.searchEngines.Reddit "Reddit">
+<!ENTITY options.searchEngines.YouTube "YouTube">
+<!ENTITY options.searchEngines.Wiktionary "Wiktionary">
+<!ENTITY options.searchEngines.Blekko "Search Blekko">
+<!ENTITY options.searchEngines.Google "Google">
+<!ENTITY options.searchEngines.GoogleMaps "Search Google Maps">
+<!ENTITY options.searchResultsOptions "Резултати претраге">
+<!ENTITY options.addSearchRefinements "Додај прецизирање претраге">
+<!ENTITY options.addSimilarProductSearch "Add Similar Product Search (Superfish)">
+<!ENTITY options.addRelatedSearchResultsAmazon "Додај сродне Amazon резултате">
+<!ENTITY options.addRelatedSearchResultsOneriot "Додај сродне Oneriot резултате">
+<!ENTITY options.addTrendingSearchResultsOneriot "Додај популарне резултате за Oneriot">
+<!ENTITY options.addSerpInfoBox "Add DuckDuckGo info boxes to search engines">
+<!ENTITY folder_chooser.choose_folder "Изабери фасциклу">
+<!ENTITY folder_chooser.destination_folder "Одредишна фасцикла:">
+<!ENTITY folder_chooser.browse "Потражи...">

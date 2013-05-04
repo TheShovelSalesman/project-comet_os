@@ -1,0 +1,65 @@
+<!ENTITY extension.name "Ustawienia FastestFox">
+<!ENTITY contextMenu.downloadPageMedia "Pobierz media ze strony">
+<!ENTITY contextMenu.downloadPageLinks "Pobierz odnośniki ze strony">
+<!ENTITY contextMenu.downloadPageImages "Pobierz obrazki ze strony">
+<!ENTITY contextMenu.downloadAllLinks "Pobierz wszystkie odnośniki">
+<!ENTITY contextMenu.downloadAllImages "Pobierz wszystkie obrazki">
+<!ENTITY contextMenu.downloadSelection "Pobierz zaznaczenie">
+<!ENTITY contextMenu.searchWikipedia "Szukaj zaznaczony element w Wikipedii">
+<!ENTITY contextMenu.removeSelection "Usuń zaznaczenie">
+<!ENTITY options.window.title "Ustawienia FastestFox">
+<!ENTITY options.generalOptions "Ogólne">
+<!ENTITY options.searchOptions "Opcje szukania">
+<!ENTITY options.showPopupBubble "Wyświetlaj wyszukiwarki">
+<!ENTITY options.enhanceUrlbar "Ulepsz pasek adresu (wymaga ponownego uruchomienia)">
+<!ENTITY options.showContextMenuAdditions "Wyświetlaj dodatkowe elementy w menu kontekstowym">
+<!ENTITY options.enableEndlessPages "Pobieraj kolejne strony długich dokumentów">
+<!ENTITY options.copyPaste "Kopiuj/Wklej">
+<!ENTITY options.wikipediaOptions "Wikipedia – ustawienia">
+<!ENTITY options.addRelatedArticles "Dodaj panel „podobne artykuły” w Wikipedii">
+<!ENTITY options.addOtherSearchEngines "Dodaj inne wyszukiwarki do wyników szukania">
+<!ENTITY options.qlauncherOptions "qLauncher">
+<!ENTITY options.enableQlauncher "Włącz qLauncher">
+<!ENTITY options.invokeQlauncher "Uruchamiaj skrótem:">
+<!ENTITY options.qlauncherOpenNewTab "Otwieraj w nowej karcie">
+<!ENTITY options.copyAndPasteOptions "Kopiuj/Wklej">
+<!ENTITY options.autoCopySelected "Automatycznie kopiuj zaznaczenie">
+<!ENTITY options.enableMiddleMousePaste "Wklejaj po kliknięciu śp. myszy">
+<!ENTITY options.enableRightMousePaste "Wklejaj po kliknięciu pp. myszy">
+<!ENTITY options.enableLinkify "Twórz odnośnik z zaznaczonego tekstu">
+<!ENTITY options.otherOptions "Różne">
+<!ENTITY options.feedbackCaption "Opinie">
+<!ENTITY options.feedbackLabel "Komentarze, propozycje lub zgłoszenia błędów">
+<!ENTITY options.popupBubbleOptions "Wyszukiwarki">
+<!ENTITY options.popupBubbleDisplayAboveText "Display above text">
+<!ENTITY options.popupBubbleShowDefinitions "Wyświetl definicje">
+<!ENTITY options.popupBubbleShowLinkInfo "Wyświetlaj informacje o odnośniku (Facebook / Twitter)">
+<!ENTITY options.popupBubbleShowLinkInfoAlways "Zawsze wyświetlaj informacje o odnośniku">
+<!ENTITY options.popupBubbleOpenNewTab "Otwieraj w nowej karcie">
+<!ENTITY options.popupBubbleForceSingleRow "Wyświetlaj w jednym wierszu">
+<!ENTITY options.searchEngines.caption "Wyszukiwarki">
+<!ENTITY options.searchEngines.Wikipedia "Search Wikipedia">
+<!ENTITY options.searchEngines.OneRiot "OneRiot">
+<!ENTITY options.searchEngines.IMDB "IMDB">
+<!ENTITY options.searchEngines.Yandex "Yandex">
+<!ENTITY options.searchEngines.Delicious "Delicious">
+<!ENTITY options.searchEngines.Twitter "Twitter">
+<!ENTITY options.searchEngines.SurfCanyon "Surf Canyon">
+<!ENTITY options.searchEngines.Bing "Bing">
+<!ENTITY options.searchEngines.Baidu "Baidu">
+<!ENTITY options.searchEngines.Reddit "Reddit">
+<!ENTITY options.searchEngines.YouTube "YouTube">
+<!ENTITY options.searchEngines.Wiktionary "Wiktionary">
+<!ENTITY options.searchEngines.Blekko "Search Blekko">
+<!ENTITY options.searchEngines.Google "Google">
+<!ENTITY options.searchEngines.GoogleMaps "Search Google Maps">
+<!ENTITY options.searchResultsOptions "Wyniki szukania">
+<!ENTITY options.addSearchRefinements "Dodaj uściślenia">
+<!ENTITY options.addSimilarProductSearch "Dodaj wyszukiwanie podobnych produktów (Superfish)">
+<!ENTITY options.addRelatedSearchResultsAmazon "Dodaj powiązane wyniki szukania z Amazon">
+<!ENTITY options.addRelatedSearchResultsOneriot "Dodaj powiązane wyniki szukania z OneRiot">
+<!ENTITY options.addTrendingSearchResultsOneriot "Dodaj subiektywne wyniki szukania z OneRiot">
+<!ENTITY options.addSerpInfoBox "Add DuckDuckGo info boxes to search engines">
+<!ENTITY folder_chooser.choose_folder "Wybierz folder">
+<!ENTITY folder_chooser.destination_folder "Docelowy folder:">
+<!ENTITY folder_chooser.browse "Przeglądaj…">

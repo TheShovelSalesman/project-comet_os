@@ -1,0 +1,47 @@
+content smarterwiki chrome/content/
+skin smarterwiki classic chrome/skin/
+
+locale  smarterwiki ar chrome/locale/ar/
+locale  smarterwiki ar-SA chrome/locale/ar-SA/
+locale  smarterwiki bg-BG chrome/locale/bg-BG/
+locale  smarterwiki ca-AD chrome/locale/ca-AD/
+locale  smarterwiki cs-CZ chrome/locale/cs-CZ/
+locale  smarterwiki da-DK chrome/locale/da-DK/
+locale  smarterwiki de chrome/locale/de/
+locale  smarterwiki el-GR chrome/locale/el-GR/
+locale  smarterwiki en-US chrome/locale/en-US/
+locale  smarterwiki es-AR chrome/locale/es-AR/
+locale  smarterwiki es-ES chrome/locale/es-ES/
+#locale  smarterwiki es-MX chrome/locale/es-MX/
+locale  smarterwiki es-CL chrome/locale/es-CL/
+locale  smarterwiki eu-ES chrome/locale/eu-ES/
+locale  smarterwiki fa-IR chrome/locale/fa-IR/
+locale  smarterwiki fi-FI chrome/locale/fi-FI/
+locale  smarterwiki fr chrome/locale/fr/
+locale  smarterwiki hu-HU chrome/locale/hu-HU/
+locale  smarterwiki it-IT chrome/locale/it-IT/
+locale  smarterwiki nl chrome/locale/nl/
+locale  smarterwiki pl chrome/locale/pl/
+locale  smarterwiki pt-BR chrome/locale/pt-BR/
+locale  smarterwiki pt-PT chrome/locale/pt-PT/
+locale  smarterwiki ru-RU chrome/locale/ru-RU/
+locale  smarterwiki sk-SK chrome/locale/sk-SK/
+locale  smarterwiki sr-RS chrome/locale/sr-RS/
+locale  smarterwiki sv-SE chrome/locale/sv-SE/
+locale  smarterwiki tr-TR chrome/locale/tr-TR/
+locale  smarterwiki vi chrome/locale/vi/
+locale  smarterwiki zh-CN chrome/locale/zh-CN/
+locale  smarterwiki zh-TW chrome/locale/zh-TW/
+locale  smarterwiki ja-JP chrome/locale/ja-JP/
+
+
+
+# Firefox
+overlay chrome://browser/content/browser.xul chrome://smarterwiki/content/browser_overlay.xul
+
+component {bd8cdff6-4312-43e1-b215-1663e9e8a2e2} components/smarterwiki-search.js
+contract @mozilla.org/autocomplete/search;1?name=smarterwiki-search {bd8cdff6-4312-43e1-b215-1663e9e8a2e2}
+
+component {67d054a6-7173-47e4-bf4a-dcd77b88fa59} components/smarterwiki-http-observer.js
+contract @smarterwiki/http-observer;1 {67d054a6-7173-47e4-bf4a-dcd77b88fa59}
+category profile-after-change @smarterwiki/http-observer;1 @smarterwiki/http-observer;1

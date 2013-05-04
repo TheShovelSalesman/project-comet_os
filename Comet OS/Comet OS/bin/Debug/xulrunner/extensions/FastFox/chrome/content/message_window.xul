@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE window SYSTEM "chrome://smarterwiki/locale/smarterwiki.dtd">
+
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+<?xml-stylesheet href="chrome://smarterwiki/content/smarterwiki.css" type="text/css"?>
+
+
+<window id="SW_PopupMessage" 
+        title="Message"
+        persist="screenX screenY"
+        spacerflex="1"
+        xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+    <stringbundleset id="stringbundleset">
+        <!--
+        For some reason the id must be exactly that or it will fail :(
+        -->
+        <stringbundle id="smarterwiki_strings" 
+                      src="chrome://smarterwiki/locale/strings.properties"/>
+    </stringbundleset>
+
+    <script type="application/x-javascript"
+            src="chrome://smarterwiki/content/jquery-1.2.6.js" />
+    <script type="application/x-javascript" src="message_window.js" />
+
+    <vbox minheight="30">
+        <separator orient="vertical" flex="1"/>
+        <label id="message-label" value="message" class="header" />
+        <separator orient="vertical" flex="1"/>
+    </vbox>
+</window>

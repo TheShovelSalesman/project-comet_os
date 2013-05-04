@@ -1,0 +1,65 @@
+<!ENTITY extension.name "FastestFox">
+<!ENTITY contextMenu.downloadPageMedia "Download page media">
+<!ENTITY contextMenu.downloadPageLinks "Download page links">
+<!ENTITY contextMenu.downloadPageImages "Download page images">
+<!ENTITY contextMenu.downloadAllLinks "Download all links">
+<!ENTITY contextMenu.downloadAllImages "Download all images">
+<!ENTITY contextMenu.downloadSelection "Download selection">
+<!ENTITY contextMenu.searchWikipedia "Search selection on Wikipedia">
+<!ENTITY contextMenu.removeSelection "Remove selection">
+<!ENTITY options.window.title "FastestFox Options">
+<!ENTITY options.generalOptions "General">
+<!ENTITY options.searchOptions "Search Options">
+<!ENTITY options.showPopupBubble "Show popup bubble">
+<!ENTITY options.enhanceUrlbar "Enhance Awesomebar (requires restart)">
+<!ENTITY options.showContextMenuAdditions "Show context menu additions">
+<!ENTITY options.enableEndlessPages "Enable Endless Pages">
+<!ENTITY options.copyPaste "Copy &amp; Paste">
+<!ENTITY options.wikipediaOptions "Wikipedia Options">
+<!ENTITY options.addRelatedArticles "Add &quot;related articles&quot; to Wikipedia">
+<!ENTITY options.addOtherSearchEngines "Add other search engines to search results">
+<!ENTITY options.qlauncherOptions "qLauncher">
+<!ENTITY options.enableQlauncher "Enable qLauncher">
+<!ENTITY options.invokeQlauncher "Invoke qLauncher by pressing:">
+<!ENTITY options.qlauncherOpenNewTab "Open in new tab">
+<!ENTITY options.copyAndPasteOptions "Copy and Paste Options">
+<!ENTITY options.autoCopySelected "Auto copy selected">
+<!ENTITY options.enableMiddleMousePaste "Paste on middle mouse click">
+<!ENTITY options.enableRightMousePaste "Paste on right mouse click">
+<!ENTITY options.enableLinkify "Linkify text urls">
+<!ENTITY options.otherOptions "Other">
+<!ENTITY options.feedbackCaption "Feedback">
+<!ENTITY options.feedbackLabel "Comments, suggestions, or bug reports">
+<!ENTITY options.popupBubbleOptions "Popup bubble">
+<!ENTITY options.popupBubbleDisplayAboveText "Display above text">
+<!ENTITY options.popupBubbleShowDefinitions "Show definitions">
+<!ENTITY options.popupBubbleShowLinkInfo "Show link info (Facebook / Twitter)">
+<!ENTITY options.popupBubbleShowLinkInfoAlways "Always show link info">
+<!ENTITY options.popupBubbleOpenNewTab "Open in new tab">
+<!ENTITY options.popupBubbleForceSingleRow "Display as a single row">
+<!ENTITY options.searchEngines.caption "Search Engines">
+<!ENTITY options.searchEngines.Wikipedia "Search Wikipedia">
+<!ENTITY options.searchEngines.OneRiot "Search OneRiot">
+<!ENTITY options.searchEngines.IMDB "Search IMDB">
+<!ENTITY options.searchEngines.Yandex "Search Yandex">
+<!ENTITY options.searchEngines.Delicious "Search Delicious">
+<!ENTITY options.searchEngines.Twitter "Search Twitter">
+<!ENTITY options.searchEngines.SurfCanyon "Search Surf Canyon">
+<!ENTITY options.searchEngines.Bing "Search Bing">
+<!ENTITY options.searchEngines.Baidu "Search Baidu">
+<!ENTITY options.searchEngines.Reddit "Search Reddit">
+<!ENTITY options.searchEngines.YouTube "Search YouTube">
+<!ENTITY options.searchEngines.Wiktionary "Search Wiktionary">
+<!ENTITY options.searchEngines.Blekko "Search Blekko">
+<!ENTITY options.searchEngines.Google "Search Google">
+<!ENTITY options.searchEngines.GoogleMaps "Search Google Maps">
+<!ENTITY options.searchResultsOptions "Search Results">
+<!ENTITY options.addSearchRefinements "Add search Refinements">
+<!ENTITY options.addSimilarProductSearch "Add Similar Product Search (Superfish)">
+<!ENTITY options.addRelatedSearchResultsAmazon "Add related Amazon search results">
+<!ENTITY options.addRelatedSearchResultsOneriot "Add related Oneriot search results">
+<!ENTITY options.addTrendingSearchResultsOneriot "Add trending Oneriot search results">
+<!ENTITY options.addSerpInfoBox "Add DuckDuckGo info boxes to search engines">
+<!ENTITY folder_chooser.choose_folder "Choose Folder">
+<!ENTITY folder_chooser.destination_folder "Destination folder: ">
+<!ENTITY folder_chooser.browse "Browse...">

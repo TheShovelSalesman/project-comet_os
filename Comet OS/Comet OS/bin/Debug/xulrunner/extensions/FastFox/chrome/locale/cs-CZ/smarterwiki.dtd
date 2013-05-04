@@ -1,0 +1,65 @@
+<!ENTITY extension.name "SmarterFox">
+<!ENTITY contextMenu.downloadPageMedia "Stáhnout média ze stránky">
+<!ENTITY contextMenu.downloadPageLinks "Stáhnout odkazy ze stránky">
+<!ENTITY contextMenu.downloadPageImages "Stáhnout obrázky ze stránky">
+<!ENTITY contextMenu.downloadAllLinks "Stáhnout všechny odkazy">
+<!ENTITY contextMenu.downloadAllImages "Stáhnout všechny obrázky">
+<!ENTITY contextMenu.downloadSelection "Stáhnout výběr">
+<!ENTITY contextMenu.searchWikipedia "Hledat označený text na Wikipedii">
+<!ENTITY contextMenu.removeSelection "Odstranit označené">
+<!ENTITY options.window.title "Možnosti SmarterFox">
+<!ENTITY options.generalOptions "Obecné">
+<!ENTITY options.searchOptions "Možnosti hledání">
+<!ENTITY options.showPopupBubble "Zobrazovat vyskakující bublinu">
+<!ENTITY options.enhanceUrlbar "Vylepšit adresní řádek (vyžaduje restart prohlížeče)">
+<!ENTITY options.showContextMenuAdditions "Zobrazit dodatky v místní nabídce">
+<!ENTITY options.enableEndlessPages "Povolit &quot;nekonečné stránky&quot;">
+<!ENTITY options.copyPaste "Copy &amp; Paste">
+<!ENTITY options.wikipediaOptions "Možnosti Wikipedie">
+<!ENTITY options.addRelatedArticles "Přidat &quot;související články&quot; do Wikipedie">
+<!ENTITY options.addOtherSearchEngines "Do výsledků vyhledávání přidat další vyhledávače">
+<!ENTITY options.qlauncherOptions "qLauncher">
+<!ENTITY options.enableQlauncher "Povolit qLauncher">
+<!ENTITY options.invokeQlauncher "qLauncher vyvolat klávesou:">
+<!ENTITY options.qlauncherOpenNewTab "Otevřít v novém panelu">
+<!ENTITY options.copyAndPasteOptions "Možnosti Copy &amp; Paste">
+<!ENTITY options.autoCopySelected "Automaticky kopírovat označené">
+<!ENTITY options.enableMiddleMousePaste "Vložit prostředním tlačítkem">
+<!ENTITY options.enableRightMousePaste "Vložit pravým tlačítkem">
+<!ENTITY options.enableLinkify "Převést textové URL na odkazy">
+<!ENTITY options.otherOptions "Další">
+<!ENTITY options.feedbackCaption "Zpětná vazba">
+<!ENTITY options.feedbackLabel "Komentáře, návrhy, hlášení chyb">
+<!ENTITY options.popupBubbleOptions "Vyskakující bublina">
+<!ENTITY options.popupBubbleDisplayAboveText "Display above text">
+<!ENTITY options.popupBubbleShowDefinitions "Zobrazit definice">
+<!ENTITY options.popupBubbleShowLinkInfo "Zobrazit informace o odkazu (Facebook / Twitter)">
+<!ENTITY options.popupBubbleShowLinkInfoAlways "Vždy zobrazit informace o odkazu">
+<!ENTITY options.popupBubbleOpenNewTab "Otevřít v novém panelu">
+<!ENTITY options.popupBubbleForceSingleRow "Zobrazit jako jednu řádku">
+<!ENTITY options.searchEngines.caption "Vyhledávače">
+<!ENTITY options.searchEngines.Wikipedia "Search Wikipedia">
+<!ENTITY options.searchEngines.OneRiot "Prohledat OneRiot">
+<!ENTITY options.searchEngines.IMDB "Search IMDB">
+<!ENTITY options.searchEngines.Yandex "Prohledat Yandex">
+<!ENTITY options.searchEngines.Delicious "Prohledat Delicious">
+<!ENTITY options.searchEngines.Twitter "Prohledat Twitter">
+<!ENTITY options.searchEngines.SurfCanyon "Prohledat Surf Canyon">
+<!ENTITY options.searchEngines.Bing "Prohledat Bing">
+<!ENTITY options.searchEngines.Baidu "Prohledat Baidu">
+<!ENTITY options.searchEngines.Reddit "Prohledat Reddit">
+<!ENTITY options.searchEngines.YouTube "Prohledat YouTube">
+<!ENTITY options.searchEngines.Wiktionary "Prohledat Wikislovník">
+<!ENTITY options.searchEngines.Blekko "Search Blekko">
+<!ENTITY options.searchEngines.Google "Prohledat Google">
+<!ENTITY options.searchEngines.GoogleMaps "Search Google Maps">
+<!ENTITY options.searchResultsOptions "Výsledky vyhledávání">
+<!ENTITY options.addSearchRefinements "Přidat upřesnění vyhledávání">
+<!ENTITY options.addSimilarProductSearch "Add Similar Product Search (Superfish)">
+<!ENTITY options.addRelatedSearchResultsAmazon "Přidat související výsledky vyhledávání z Amazon.com">
+<!ENTITY options.addRelatedSearchResultsOneriot "Přidat související výsledky vyhledávání z OneRiot.com">
+<!ENTITY options.addTrendingSearchResultsOneriot "Přidat výsledky vyhledávání trendů z OneRiot.com">
+<!ENTITY options.addSerpInfoBox "Add DuckDuckGo info boxes to search engines">
+<!ENTITY folder_chooser.choose_folder "Zvolte složku">
+<!ENTITY folder_chooser.destination_folder "Cílová složka:">
+<!ENTITY folder_chooser.browse "Procházet...">

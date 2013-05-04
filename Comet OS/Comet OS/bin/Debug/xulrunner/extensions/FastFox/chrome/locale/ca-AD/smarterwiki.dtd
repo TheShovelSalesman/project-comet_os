@@ -1,0 +1,65 @@
+<!ENTITY extension.name "SmarterFox">
+<!ENTITY contextMenu.downloadPageMedia "Descarrega contingut multimèdia de la pàgina">
+<!ENTITY contextMenu.downloadPageLinks "Descarrega enllaços de la pàgina">
+<!ENTITY contextMenu.downloadPageImages "Descarrega imatges de la pàgina">
+<!ENTITY contextMenu.downloadAllLinks "Descarrega tots els enllaços">
+<!ENTITY contextMenu.downloadAllImages "Descarrega totes les imatges">
+<!ENTITY contextMenu.downloadSelection "Descarrega la selecció">
+<!ENTITY contextMenu.searchWikipedia "Cerca la selecció a la Wiquipedia">
+<!ENTITY contextMenu.removeSelection "Esborra la selecció">
+<!ENTITY options.window.title "Opcions de SmarterFox">
+<!ENTITY options.generalOptions "General">
+<!ENTITY options.searchOptions "Opcions de Cerca">
+<!ENTITY options.showPopupBubble "Mostra el pop-up">
+<!ENTITY options.enhanceUrlbar "Millora l'Awesomebar (requereix reiniciar)">
+<!ENTITY options.showContextMenuAdditions "Mostra els extres del menú contextual">
+<!ENTITY options.enableEndlessPages "Activa &quot;Pàgines sense fi&quot;">
+<!ENTITY options.copyPaste "Copia &amp;Enganxa">
+<!ENTITY options.wikipediaOptions "Opcions de la Wiquipedia">
+<!ENTITY options.addRelatedArticles "Afegeix &quot;articles relacionats&quot; a la Wiquipedia">
+<!ENTITY options.addOtherSearchEngines "Afegeix altres motors de cerca als resultats">
+<!ENTITY options.qlauncherOptions "qLauncher">
+<!ENTITY options.enableQlauncher "Activa qLauncher">
+<!ENTITY options.invokeQlauncher "Crida qLauncher prement:">
+<!ENTITY options.qlauncherOpenNewTab "Obre en una nova pestanya">
+<!ENTITY options.copyAndPasteOptions "Opcions de Copiar i Enganxar">
+<!ENTITY options.autoCopySelected "Auto còpia seleccionada">
+<!ENTITY options.enableMiddleMousePaste "Enganxa amb el botó del mig del ratolí">
+<!ENTITY options.enableRightMousePaste "Enganxa amb el botó de la dreta del ratolí">
+<!ENTITY options.enableLinkify "Converteix els enllaços de text en hiperenllaços">
+<!ENTITY options.otherOptions "Altres">
+<!ENTITY options.feedbackCaption "Comentaris">
+<!ENTITY options.feedbackLabel "Comentaris, suggerencies o informes d'errors">
+<!ENTITY options.popupBubbleOptions "Bombolla emergent">
+<!ENTITY options.popupBubbleDisplayAboveText "Display above text">
+<!ENTITY options.popupBubbleShowDefinitions "Mostra les definicions">
+<!ENTITY options.popupBubbleShowLinkInfo "Mostra informació del link (Facebook/Twitter)">
+<!ENTITY options.popupBubbleShowLinkInfoAlways "Mostra sempre la informació del link">
+<!ENTITY options.popupBubbleOpenNewTab "Obre en una nova pestanya">
+<!ENTITY options.popupBubbleForceSingleRow "Mostra com una sola línia">
+<!ENTITY options.searchEngines.caption "Motors de cerca">
+<!ENTITY options.searchEngines.Wikipedia "Search Wikipedia">
+<!ENTITY options.searchEngines.OneRiot "Cerca a OneRiot">
+<!ENTITY options.searchEngines.IMDB "Cercar a IMDB">
+<!ENTITY options.searchEngines.Yandex "Cerca a Yandex">
+<!ENTITY options.searchEngines.Delicious "Cerca a Delicious">
+<!ENTITY options.searchEngines.Twitter "Cerca a Twitter">
+<!ENTITY options.searchEngines.SurfCanyon "Cerca a Surf Canyon">
+<!ENTITY options.searchEngines.Bing "Cerca a Bing">
+<!ENTITY options.searchEngines.Baidu "Cerca a Baidu">
+<!ENTITY options.searchEngines.Reddit "Cerca a Reddit">
+<!ENTITY options.searchEngines.YouTube "Cerca a Youtube">
+<!ENTITY options.searchEngines.Wiktionary "Cerca al Wiktionary">
+<!ENTITY options.searchEngines.Blekko "Search Blekko">
+<!ENTITY options.searchEngines.Google "Cerca a Google">
+<!ENTITY options.searchEngines.GoogleMaps "Search Google Maps">
+<!ENTITY options.searchResultsOptions "Resultats de la Cerca">
+<!ENTITY options.addSearchRefinements "Afegir dades de cerca">
+<!ENTITY options.addSimilarProductSearch "Afegeix Cerca de Productes Similars (Superfish)">
+<!ENTITY options.addRelatedSearchResultsAmazon "Afegeix resultats relacionats de Amazon">
+<!ENTITY options.addRelatedSearchResultsOneriot "Afegeix resultats relacionats de Oneriot">
+<!ENTITY options.addTrendingSearchResultsOneriot "Afegir resultats que hi tendeixen des d'Oneriot">
+<!ENTITY options.addSerpInfoBox "Add DuckDuckGo info boxes to search engines">
+<!ENTITY folder_chooser.choose_folder "Trieu una Carpeta">
+<!ENTITY folder_chooser.destination_folder "Carpeta de destí:">
+<!ENTITY folder_chooser.browse "Fulleja...">

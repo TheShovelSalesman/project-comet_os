@@ -1,0 +1,637 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6C867EEA-7CC0-4925-9AF8-682FCEF553BA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Comet_OS.My.MyApplication</StartupObject>
+    <RootNamespace>Comet_OS</RootNamespace>
+    <AssemblyName>Comet OS</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Cody\Desktop\test\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>false</MapFileExtensions>
+    <ProductName>Comet OS</ProductName>
+    <PublisherName>Cody Zusman</PublisherName>
+    <SuiteName>Comet OS</SuiteName>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>4.0.0.0</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Comet OS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Comet OS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <PlatformTarget>x64</PlatformTarget>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <PlatformTarget>x64</PlatformTarget>
+    <OutputPath>bin\x64\Release\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>66F70E1898023AFCD9B47F741E6FD3ABB3A9C418</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Comet OS_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2">
+      <HintPath>..\..\..\..\..\..\Desktop\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="geckofx-core-18">
+      <HintPath>..\..\..\GeckoFX\geckofx-core-18.dll</HintPath>
+    </Reference>
+    <Reference Include="Geckofx-Winforms-18">
+      <HintPath>..\..\..\GeckoFX\Geckofx-Winforms-18.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.Designer.vb">
+      <DependentUpon>About.vb</DependentUpon>
+    </Compile>
+    <Compile Include="About.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accountCreate.Designer.vb">
+      <DependentUpon>accountCreate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="accountCreate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AppBin.Designer.vb">
+      <DependentUpon>AppBin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AppBin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="Calculator.Designer.vb">
+      <DependentUpon>Calculator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Calculator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CBOD.Designer.vb">
+      <DependentUpon>CBOD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CBOD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bookmarkManager.Designer.vb">
+      <DependentUpon>bookmarkManager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="bookmarkManager.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sapphire.Designer.vb">
+      <DependentUpon>Sapphire.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Sapphire.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="download.Designer.vb">
+      <DependentUpon>download.vb</DependentUpon>
+    </Compile>
+    <Compile Include="download.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Feedback.Designer.vb">
+      <DependentUpon>Feedback.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Feedback.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FlashViewer.Designer.vb">
+      <DependentUpon>FlashViewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FlashViewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GS.Designer.vb">
+      <DependentUpon>GS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sapphireSettings.Designer.vb">
+      <DependentUpon>sapphireSettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sapphireSettings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sysMenu.Designer.vb">
+      <DependentUpon>sysMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sysMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="screenCapture.designer.vb">
+      <DependentUpon>screenCapture.vb</DependentUpon>
+    </Compile>
+    <Compile Include="screenCapture.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="qwop.Designer.vb">
+      <DependentUpon>qwop.vb</DependentUpon>
+    </Compile>
+    <Compile Include="qwop.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RlsNotes.Designer.vb">
+      <DependentUpon>RlsNotes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RlsNotes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clef.Designer.vb">
+      <DependentUpon>Clef.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Clef.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Commands.vb" />
+    <Compile Include="Console.Designer.vb">
+      <DependentUpon>Console.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Console.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desktop.Designer.vb">
+      <DependentUpon>Desktop.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Desktop.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EpicText.Designer.vb">
+      <DependentUpon>EpicText.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EpicText.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="errorMessage.Designer.vb">
+      <DependentUpon>errorMessage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="errorMessage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Legacy.Designer.vb">
+      <DependentUpon>Legacy.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Legacy.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loading.Designer.vb">
+      <DependentUpon>Loading.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Loading.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.vb">
+      <DependentUpon>LoginForm.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="minimize.Designer.vb">
+      <DependentUpon>minimize.vb</DependentUpon>
+    </Compile>
+    <Compile Include="minimize.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Settings.Designer.vb">
+      <DependentUpon>Settings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Space Invaders.Designer.vb">
+      <DependentUpon>Space Invaders.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Space Invaders.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="start.Designer.vb">
+      <DependentUpon>start.vb</DependentUpon>
+    </Compile>
+    <Compile Include="start.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="template.Designer.vb">
+      <DependentUpon>template.vb</DependentUpon>
+    </Compile>
+    <Compile Include="template.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="zOS0.Designer.vb">
+      <DependentUpon>zOS0.vb</DependentUpon>
+    </Compile>
+    <Compile Include="zOS0.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="zOS0CelloNet.Designer.vb">
+      <DependentUpon>zOS0CelloNet.vb</DependentUpon>
+    </Compile>
+    <Compile Include="zOS0CelloNet.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="accountCreate.resx">
+      <DependentUpon>accountCreate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AppBin.resx">
+      <DependentUpon>AppBin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Calculator.resx">
+      <DependentUpon>Calculator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CBOD.resx">
+      <DependentUpon>CBOD.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bookmarkManager.resx">
+      <DependentUpon>bookmarkManager.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sapphire.resx">
+      <DependentUpon>Sapphire.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="download.resx">
+      <DependentUpon>download.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Feedback.resx">
+      <DependentUpon>Feedback.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FlashViewer.resx">
+      <DependentUpon>FlashViewer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GS.resx">
+      <DependentUpon>GS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sapphireSettings.resx">
+      <DependentUpon>sapphireSettings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sysMenu.resx">
+      <DependentUpon>sysMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screenCapture.resx">
+      <DependentUpon>screenCapture.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="qwop.resx">
+      <DependentUpon>qwop.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RlsNotes.resx">
+      <DependentUpon>RlsNotes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clef.resx">
+      <DependentUpon>Clef.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Console.resx">
+      <DependentUpon>Console.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desktop.resx">
+      <DependentUpon>Desktop.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EpicText.resx">
+      <DependentUpon>EpicText.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="errorMessage.resx">
+      <DependentUpon>errorMessage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Legacy.resx">
+      <DependentUpon>Legacy.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loading.resx">
+      <DependentUpon>Loading.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="minimize.resx">
+      <DependentUpon>minimize.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings.resx">
+      <DependentUpon>Settings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Space Invaders.resx">
+      <DependentUpon>Space Invaders.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="start.resx">
+      <DependentUpon>start.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="template.resx">
+      <DependentUpon>template.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zOS0.resx">
+      <DependentUpon>zOS0.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zOS0CelloNet.resx">
+      <DependentUpon>zOS0CelloNet.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Comet OS_TemporaryKey.pfx" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gradient.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CometOSLogo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CometOSLogo1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CometOSDesktop.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\moon-768x1366.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gradient3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="favicon %283%29.ico" />
+    <None Include="Resources\sysMenu.png" />
+    <None Include="Resources\text-align-right-icon.png" />
+    <None Include="Resources\text-align-left-icon.png" />
+    <None Include="Resources\text-align-center-icon.png" />
+    <None Include="Resources\vista_bar_black.png" />
+    <None Include="Resources\Untitled-2.png" />
+    <None Include="Resources\Untitled-11.png" />
+    <None Include="Resources\pause1.png" />
+    <None Include="Resources\pause.png" />
+    <None Include="Resources\Play1.png" />
+    <None Include="Resources\Play.png" />
+    <None Include="Resources\the_starry_night-wallpaper-1366x768.jpg" />
+    <None Include="Resources\Untitled-1.png" />
+    <None Include="Resources\1349020582_monotone_wrench_settings.png" />
+    <None Include="Resources\darkWindowdesktop.jpg" />
+    <None Include="Resources\desktop.png" />
+    <None Include="Resources\1-space-invaders.swf" />
+    <None Include="Resources\black-textures-hd-background-squares-210945.jpg" />
+    <None Include="Resources\DSC06239.JPG" />
+    <None Include="Resources\folders-open.ico" />
+    <Content Include="favicon.ico" />
+    <None Include="Resources\Comet OS.jpg" />
+    <None Include="Resources\saturn-wallpaper-3.jpg" />
+    <None Include="Resources\CometOSmnts.jpg" />
+    <None Include="Resources\6329.jpg" />
+    <None Include="Resources\1366077992_51669.ico" />
+    <Content Include="Resources\About-icon.png" />
+    <None Include="Resources\About-icon1.png" />
+    <Content Include="Resources\Actions-edit-clear-locationbar-ltr-icon.png" />
+    <None Include="Resources\Actions-edit-clear-locationbar-ltr-icon1.png" />
+    <None Include="Resources\appbinclick.png" />
+    <None Include="Resources\appbinrollover.png" />
+    <Content Include="Resources\bobines-video-icon.png" />
+    <None Include="Resources\bobines-video-icon1.png" />
+    <Content Include="Resources\camera-icon.png" />
+    <None Include="Resources\camera-icon1.png" />
+    <None Include="Resources\Gradient1.jpg" />
+    <None Include="Resources\gradient-wallpaper-3.jpg" />
+    <None Include="Resources\favicon.ico" />
+    <None Include="Resources\favicon %281%29.ico" />
+    <None Include="Resources\favicon %282%29.ico" />
+    <None Include="Resources\CometOSMenu.png" />
+    <None Include="Resources\gradient-wallpaper-3.png" />
+    <None Include="Resources\Dark_Gradient_Wallpaper-1920x1200.jpg" />
+    <None Include="Resources\camera_b1.png" />
+    <None Include="Resources\camera_j6.png" />
+    <None Include="Resources\Danrabbit-Elementary-Folder-grey.ico" />
+    <None Include="Resources\Folder-grey-icon.png" />
+    <None Include="Resources\Folder-grey-icon2.png" />
+    <None Include="Resources\gradient-wallpaper-31.png" />
+    <None Include="Resources\favicon %283%291.ico" />
+    <None Include="Resources\favicon %281%291.ico" />
+    <None Include="Resources\favicon %284%29.ico" />
+    <None Include="Resources\favicon %285%292.ico" />
+    <None Include="Resources\Email-256.png" />
+    <None Include="Resources\Email-2561.png" />
+    <None Include="Resources\favicon %286%292.ico" />
+    <None Include="Resources\Fullscreen.ico" />
+    <None Include="Resources\Fullscreen1.ico" />
+    <None Include="Resources\fullscreen_32.ico" />
+    <None Include="Resources\Everaldo-Crystal-Clear-Mimetype-font-bitmap.ico" />
+    <None Include="Resources\gradient4.png" />
+    <None Include="Resources\gradientclick.png" />
+    <Content Include="Resources\k-snap-shot-icon.png" />
+    <None Include="Resources\k-snap-shot-icon1.png" />
+    <None Include="Resources\Oxygen-Icons.org-Oxygen-Places-folder-blue.ico" />
+    <None Include="Resources\n4rmCt2.jpg" />
+    <None Include="Resources\MenuBar3.png" />
+    <None Include="Resources\minimalistic_orange_gradient_desktop_2560x1600_hd-wallpaper-892507.jpg" />
+    <None Include="Resources\Rotating_earth_%28large%29.gif" />
+    <None Include="Resources\Oxygen-Icons.org-Oxygen-Devices-media-floppy.ico" />
+    <None Include="Resources\Oxygen-Icons.org-Oxygen-Actions-document-open.ico" />
+    <None Include="Resources\monotone_cog_settings_gear.png" />
+    <Content Include="Resources\Save-icon.png" />
+    <None Include="Resources\Save-icon1.png" />
+    <Content Include="Resources\stars.jpg" />
+    <Content Include="Resources\favicon %2810%29.ico" />
+    <Content Include="Resources\favicon %2811%29.ico" />
+    <Content Include="Resources\favicon %2812%29.ico" />
+    <None Include="Resources\favicon %283%29.ico" />
+    <Content Include="Resources\favicon %285%29.ico" />
+    <None Include="Resources\favicon %285%291.ico" />
+    <Content Include="Resources\favicon %286%29.ico" />
+    <None Include="Resources\favicon %286%291.ico" />
+    <None Include="Resources\favicon %287%29.ico" />
+    <Content Include="Resources\favicon %289%29.ico" />
+    <None Include="Resources\Save.ico" />
+    <None Include="Resources\homeSweetHome.ico" />
+    <None Include="Resources\stop.ico" />
+    <None Include="Resources\refresh.ico" />
+    <None Include="Resources\goForward1.ico" />
+    <None Include="Resources\goForward.ico" />
+    <None Include="Resources\goBack.ico" />
+    <None Include="Resources\removeTab.ico" />
+    <None Include="Resources\addTab.ico" />
+    <None Include="Resources\CometOSDesktop1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="ShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

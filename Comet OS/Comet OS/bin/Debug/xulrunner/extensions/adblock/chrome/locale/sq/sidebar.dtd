@@ -1,0 +1,36 @@
+<!ENTITY tooltip.type.label "Lloji:">
+<!ENTITY address.label "Adresa">
+<!ENTITY context.open.label "Hape një një lidhje të re">
+<!ENTITY type.label "Lloji">
+<!ENTITY tooltip.filterSource.label "Burimi i filtruesit:">
+<!ENTITY filter.label "Filtruesi">
+<!ENTITY noitems.label "S'ka elemente bllokuese">
+<!ENTITY tooltip.size.label "Madhësia:">
+<!ENTITY search.label "Kërko:">
+<!ENTITY tooltip.docDomain.label "Burimi i dokumentit:">
+<!ENTITY context.copy.label "Kopjo adresën e elementit">
+<!ENTITY tooltip.type.blocked "(bllokuar)">
+<!ENTITY context.disablefilter.label "Çaktivizo filtruesin ?1?">
+<!ENTITY context.copyFilter.label "Kopjo filtruesin">
+<!ENTITY context.editfilter.label "Vendos filtruesin në veprim">
+<!ENTITY context.enablefilter.label "Ri mundëso filtruesin ?1?">
+<!ENTITY context.disablefilteronsite.label "Pamundëso filtruesin në ?1?">
+<!ENTITY tooltip.type.whitelisted "(lejuar)">
+<!ENTITY tooltip.filter.label "Filtri në përdorim:">
+<!ENTITY context.block.label "Blloko këtë send">
+<!ENTITY size.label "Madhësia">
+<!ENTITY context.selectAll.label "Zgjidhi të gjitha">
+<!ENTITY state.label "Gjendja">
+<!ENTITY docDomain.label "Burimi i dokumentit">
+<!ENTITY tooltip.address.label "Adresa:">
+<!ENTITY context.flash.label "Flash item's borders">
+<!ENTITY reattach.label "Reattach">
+<!ENTITY docDomain.thirdParty "(third party)">
+<!ENTITY filterSource.label "Filter source">
+<!ENTITY search.accesskey "S">
+<!ENTITY detach.label "Detach">
+<!ENTITY whitelisted.label "Whitelisted page">
+<!ENTITY detached.title "Adblock Plus: Blockable items (detached)">
+<!ENTITY docDomain.firstParty "(first party)">
+<!ENTITY tooltip.filter.disabled "(disabled)">
+<!ENTITY context.whitelist.label "Add exception rule for item">

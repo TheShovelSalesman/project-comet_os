@@ -1,0 +1,73 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Username" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Music" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;Music&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="Homepage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">www.google.com</Value>
+    </Setting>
+    <Setting Name="searchEngine" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.google.com/#hl=en&amp;safe=off&amp;output=search&amp;sclient=psy-ab&amp;q=</Value>
+    </Setting>
+    <Setting Name="background" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Default</Value>
+    </Setting>
+    <Setting Name="Desktop" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Default</Value>
+    </Setting>
+    <Setting Name="DesktopImageLayout" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Stretch</Value>
+    </Setting>
+    <Setting Name="swfFiles" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;Files&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="Version" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4.0.0 b1
+</Value>
+    </Setting>
+    <Setting Name="Commandlist" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;List of all commands:&lt;/string&gt;
+  &lt;string /&gt;
+  &lt;string&gt;Run Clef -- Open Clef media player.&lt;/string&gt;
+  &lt;string&gt;Run Sapphire -- Open Sapphire web browser.&lt;/string&gt;
+  &lt;string&gt;Run EpicText -- Open EpicText word processor.&lt;/string&gt;
+  &lt;string&gt;PlayGame -- Play a game.&lt;/string&gt;
+  &lt;string&gt;Run Calculator -- Get your math on!&lt;/string&gt;
+  &lt;string&gt;Run Settings -- Open settings.&lt;/string&gt;
+  &lt;string&gt;About Comet OS -- Dafuq am I running?&lt;/string&gt;
+  &lt;string&gt;Invoke::genericError -- Invoke an error.&lt;/string&gt;
+  &lt;string&gt;Invoke::appCacheError -- HEY, I IS BROKEN.&lt;/string&gt;
+  &lt;string&gt;Invoke::loginError -- A simple login error.&lt;/string&gt;
+  &lt;string&gt;Invoke::systemFailure -- It's probably best not to use this one.&lt;/string&gt;
+  &lt;string&gt;cls -- Clear screen.&lt;/string&gt;
+  &lt;string&gt;listCache -- List all open apps.&lt;/string&gt;
+  &lt;string&gt;help -- Show this message.&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="Extensions" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="bookmarks" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;Bookmarks&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

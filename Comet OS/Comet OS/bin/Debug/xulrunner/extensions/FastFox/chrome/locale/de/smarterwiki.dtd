@@ -1,0 +1,65 @@
+<!ENTITY extension.name "FastestFox">
+<!ENTITY contextMenu.downloadPageMedia "Medien dieser Seite herunterladen">
+<!ENTITY contextMenu.downloadPageLinks "Links dieser Seite herunterladen">
+<!ENTITY contextMenu.downloadPageImages "Bilder dieser Seite herunterladen">
+<!ENTITY contextMenu.downloadAllLinks "Alle Links herunterladen">
+<!ENTITY contextMenu.downloadAllImages "Alle Bilder herunterladen">
+<!ENTITY contextMenu.downloadSelection "Auswahl herunterladen">
+<!ENTITY contextMenu.searchWikipedia "Suche markierten Begriff auf Wikipedia">
+<!ENTITY contextMenu.removeSelection "Auswahl entfernen">
+<!ENTITY options.window.title "FastestFox-Einstellungen">
+<!ENTITY options.generalOptions "Allgemein">
+<!ENTITY options.searchOptions "Such-Optionen">
+<!ENTITY options.showPopupBubble "Sprechblase anzeigen">
+<!ENTITY options.enhanceUrlbar "Awesomebar verbessern (erfordert Neustart)">
+<!ENTITY options.showContextMenuAdditions "Einträge zum Kontextmenü hinzufügen">
+<!ENTITY options.enableEndlessPages "'Endlose Seiten'-Funktion aktivieren">
+<!ENTITY options.copyPaste "Kopieren &amp; Einfügen">
+<!ENTITY options.wikipediaOptions "Wikipedia-Einstellungen">
+<!ENTITY options.addRelatedArticles "'Verwandte Artikel'-Tafel bei Wikipedia hinzufügen">
+<!ENTITY options.addOtherSearchEngines "Eine weitere Suchmaschine den Ergebnissen hinzufügen">
+<!ENTITY options.qlauncherOptions "qLauncher">
+<!ENTITY options.enableQlauncher "qLauncher aktivieren">
+<!ENTITY options.invokeQlauncher "qLauncher aufrufen, durch drücken von:">
+<!ENTITY options.qlauncherOpenNewTab "In neuem Reiter öffnen">
+<!ENTITY options.copyAndPasteOptions "&quot;Kopieren &amp; Einfügen&quot;-Einstellungen">
+<!ENTITY options.autoCopySelected "Auswahl automatisch kopieren">
+<!ENTITY options.enableMiddleMousePaste "Bei mittlerem Mausklick einfügen">
+<!ENTITY options.enableRightMousePaste "Bei rechtem Mausklick einfügen">
+<!ENTITY options.enableLinkify "Text-URLs verlinken">
+<!ENTITY options.otherOptions "Andere">
+<!ENTITY options.feedbackCaption "Rückmeldung">
+<!ENTITY options.feedbackLabel "für Kommentare, Vorschläge und Problembeschreibungen">
+<!ENTITY options.popupBubbleOptions "Sprechblase">
+<!ENTITY options.popupBubbleDisplayAboveText "Display above text">
+<!ENTITY options.popupBubbleShowDefinitions "Zeige Definitionen">
+<!ENTITY options.popupBubbleShowLinkInfo "Zeige Link-Info (Facebook/Twitter)">
+<!ENTITY options.popupBubbleShowLinkInfoAlways "Link-Info immer zeigen">
+<!ENTITY options.popupBubbleOpenNewTab "In neuem Reiter öffnen">
+<!ENTITY options.popupBubbleForceSingleRow "Als einzelne Zeile darstellen">
+<!ENTITY options.searchEngines.caption "Suchmaschinen">
+<!ENTITY options.searchEngines.Wikipedia "Search Wikipedia">
+<!ENTITY options.searchEngines.OneRiot "Über OneRiot suchen">
+<!ENTITY options.searchEngines.IMDB "Über IMDB suchen">
+<!ENTITY options.searchEngines.Yandex "Über Yandex suchen">
+<!ENTITY options.searchEngines.Delicious "Über Delicious suchen">
+<!ENTITY options.searchEngines.Twitter "Über Twitter suchen">
+<!ENTITY options.searchEngines.SurfCanyon "Über Surf Canyon suchen">
+<!ENTITY options.searchEngines.Bing "Über Bing suchen">
+<!ENTITY options.searchEngines.Baidu "Über Baidu suchen">
+<!ENTITY options.searchEngines.Reddit "Über Reddit suchen">
+<!ENTITY options.searchEngines.YouTube "Über YouTube suchen">
+<!ENTITY options.searchEngines.Wiktionary "Über Wiktionary suchen">
+<!ENTITY options.searchEngines.Blekko "Search Blekko">
+<!ENTITY options.searchEngines.Google "Über Google suchen">
+<!ENTITY options.searchEngines.GoogleMaps "Search Google Maps">
+<!ENTITY options.searchResultsOptions "Suchergebnisse">
+<!ENTITY options.addSearchRefinements "Such-Verbesserung hinzufügen">
+<!ENTITY options.addSimilarProductSearch "&quot;Ähnliche Produkte&quot;-Suche (Superfish) hinzufügen">
+<!ENTITY options.addRelatedSearchResultsAmazon "Füge verwandte Suchergebnisse von Amazon hinzu">
+<!ENTITY options.addRelatedSearchResultsOneriot "Füge verwandte Suchergebnisse von OneRiot hinzu">
+<!ENTITY options.addTrendingSearchResultsOneriot "Füge bei OneRiot im Trend liegende Suchergebnisse hinzu">
+<!ENTITY options.addSerpInfoBox "Add DuckDuckGo info boxes to search engines">
+<!ENTITY folder_chooser.choose_folder "Wähle Ordner">
+<!ENTITY folder_chooser.destination_folder "Ziel-Verzeichnis:">
+<!ENTITY folder_chooser.browse "Durchsuchen...">

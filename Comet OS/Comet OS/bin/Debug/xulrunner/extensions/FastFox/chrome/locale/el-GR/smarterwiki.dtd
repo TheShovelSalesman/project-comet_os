@@ -1,0 +1,65 @@
+<!ENTITY extension.name "FastestFox">
+<!ENTITY contextMenu.downloadPageMedia "Λήψη στοιχείων πολυμέσων σελίδας">
+<!ENTITY contextMenu.downloadPageLinks "Λήψη δεσμών σελίδας">
+<!ENTITY contextMenu.downloadPageImages "Λήψη εικόνων σελίδας">
+<!ENTITY contextMenu.downloadAllLinks "Λήψη όλων των δεσμών">
+<!ENTITY contextMenu.downloadAllImages "Λήψη όλων των εικόνων">
+<!ENTITY contextMenu.downloadSelection "Λήψη επιλογής">
+<!ENTITY contextMenu.searchWikipedia "Αναζήτηση επιλογής στη Wikipedia">
+<!ENTITY contextMenu.removeSelection "Αφαίρεση επιλογής">
+<!ENTITY options.window.title "Επιλογές FastestFox">
+<!ENTITY options.generalOptions "Γενικά">
+<!ENTITY options.searchOptions "Επιλογές αναζήτησης">
+<!ENTITY options.showPopupBubble "Προβολή αναδυόμενου αναζήτησης">
+<!ENTITY options.enhanceUrlbar "Βελτίωση εργαλειοθήκης διευθύνσεων (απαιτεί επανεκκίνηση)">
+<!ENTITY options.showContextMenuAdditions "Προβολή προσθηκών μενού περιεχομένου">
+<!ENTITY options.enableEndlessPages "Ενεργοποίηση ατέρμονων σελίδων">
+<!ENTITY options.copyPaste "Αντιγραφή &amp; Επικόλληση">
+<!ENTITY options.wikipediaOptions "Επιλογές Wikipedia">
+<!ENTITY options.addRelatedArticles "Προσθήκη «Σχετικών άρθρων» στη Wikipedia">
+<!ENTITY options.addOtherSearchEngines "Προσθήκη άλλων μηχανών αναζήτησης στα αποτελέσματα αναζήτησης">
+<!ENTITY options.qlauncherOptions "qLauncher">
+<!ENTITY options.enableQlauncher "Ενεργοποίηση qLauncher">
+<!ENTITY options.invokeQlauncher "Εμπλοκή του qLauncher με το πάτημα:">
+<!ENTITY options.qlauncherOpenNewTab "Άνοιγμα σε νέα καρτέλα">
+<!ENTITY options.copyAndPasteOptions "Επιλογές αντιγραφής και επικόλλησης">
+<!ENTITY options.autoCopySelected "Αυτόματη αντιγραφή επιλογής">
+<!ENTITY options.enableMiddleMousePaste "Επικόλληση με κεντρικό κλικ">
+<!ENTITY options.enableRightMousePaste "Επικόλληση με δεξί κλικ">
+<!ENTITY options.enableLinkify "Μετατροπή δεσμών σε μορφή κειμένου σε ενεργούς">
+<!ENTITY options.otherOptions "Άλλα">
+<!ENTITY options.feedbackCaption "Σχολιασμός">
+<!ENTITY options.feedbackLabel "Σχόλια, προτάσεις, ή αναφορές προβλημάτων">
+<!ENTITY options.popupBubbleOptions "Αναδυόμενο">
+<!ENTITY options.popupBubbleDisplayAboveText "Display above text">
+<!ENTITY options.popupBubbleShowDefinitions "Προβολή ορισμών">
+<!ENTITY options.popupBubbleShowLinkInfo "Show link info (Facebook / Twitter)">
+<!ENTITY options.popupBubbleShowLinkInfoAlways "Always show link info">
+<!ENTITY options.popupBubbleOpenNewTab "Άνοιγμα σε νέα καρτέλα">
+<!ENTITY options.popupBubbleForceSingleRow "Εμφάνιση σε μια γραμμή">
+<!ENTITY options.searchEngines.caption "Μηχανές αναζήτησης">
+<!ENTITY options.searchEngines.Wikipedia "Search Wikipedia">
+<!ENTITY options.searchEngines.OneRiot "Αναζήτηση σε OneRiot">
+<!ENTITY options.searchEngines.IMDB "Search IMDB">
+<!ENTITY options.searchEngines.Yandex "Αναζήτηση σε Yandex">
+<!ENTITY options.searchEngines.Delicious "Αναζήτηση σε Delicious">
+<!ENTITY options.searchEngines.Twitter "Αναζήτηση σε Twitter">
+<!ENTITY options.searchEngines.SurfCanyon "Αναζήτηση σε Surf Canyon">
+<!ENTITY options.searchEngines.Bing "Αναζήτηση σε Bing">
+<!ENTITY options.searchEngines.Baidu "Αναζήτηση σε Baidu">
+<!ENTITY options.searchEngines.Reddit "Αναζήτηση σε Reddit">
+<!ENTITY options.searchEngines.YouTube "Αναζήτηση σε YouTube">
+<!ENTITY options.searchEngines.Wiktionary "Αναζήτηση σε Wiktionary">
+<!ENTITY options.searchEngines.Blekko "Search Blekko">
+<!ENTITY options.searchEngines.Google "Αναζήτηση σε Google">
+<!ENTITY options.searchEngines.GoogleMaps "Search Google Maps">
+<!ENTITY options.searchResultsOptions "Αποτελέσματα αναζήτησης">
+<!ENTITY options.addSearchRefinements "Προσθήκη εξειδικεύσεων αναζήτησης">
+<!ENTITY options.addSimilarProductSearch "Add Similar Product Search (Superfish)">
+<!ENTITY options.addRelatedSearchResultsAmazon "Προσθήκη σχετικών αποτελεσμάτων αναζήτησης από Amazon">
+<!ENTITY options.addRelatedSearchResultsOneriot "Προσθήκη σχετικών αποτελεσμάτων αναζήτησης από Oneriot">
+<!ENTITY options.addTrendingSearchResultsOneriot "Προσθήκη δημοφιλών αποτελεσμάτων αναζήτησης από OneRiot">
+<!ENTITY options.addSerpInfoBox "Add DuckDuckGo info boxes to search engines">
+<!ENTITY folder_chooser.choose_folder "Επιλογή φακέλου">
+<!ENTITY folder_chooser.destination_folder "Φάκελος προορισμού:">
+<!ENTITY folder_chooser.browse "Εντοπισμός...">

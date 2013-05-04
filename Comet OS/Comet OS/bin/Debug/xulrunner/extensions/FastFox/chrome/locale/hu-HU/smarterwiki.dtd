@@ -1,0 +1,65 @@
+<!ENTITY extension.name "FastestFox">
+<!ENTITY contextMenu.downloadPageMedia "Az oldalon található média anyagok letöltése">
+<!ENTITY contextMenu.downloadPageLinks "Az oldalon található linkek letöltése">
+<!ENTITY contextMenu.downloadPageImages "Az oldalon található képek letöltése">
+<!ENTITY contextMenu.downloadAllLinks "Összes link letöltése">
+<!ENTITY contextMenu.downloadAllImages "Összes kép letöltése">
+<!ENTITY contextMenu.downloadSelection "Kijelöltek letöltése">
+<!ENTITY contextMenu.searchWikipedia "Kijelölt rész keresése a Wikipédián">
+<!ENTITY contextMenu.removeSelection "Kijelölt rész eltávolítása">
+<!ENTITY options.window.title "FastestFox beállítások">
+<!ENTITY options.generalOptions "Általános">
+<!ENTITY options.searchOptions "Keresési opciók">
+<!ENTITY options.showPopupBubble "Felugró buborék megjelenítése">
+<!ENTITY options.enhanceUrlbar "Intelligens címsor használata (újraindítást igényel)">
+<!ENTITY options.showContextMenuAdditions "FastestFox funkciók megjelenítése a helyi menüben">
+<!ENTITY options.enableEndlessPages "&quot;Végtelen oldalak&quot; engedélyezése">
+<!ENTITY options.copyPaste "Másolás és beillesztés">
+<!ENTITY options.wikipediaOptions "Wikipédia beállítások">
+<!ENTITY options.addRelatedArticles "&quot;Kapcsolódó szócikkek&quot; panel hozzáadása a Wikipédiához">
+<!ENTITY options.addOtherSearchEngines "További keresőmotorok hozzáadása a keresési eredményekhez">
+<!ENTITY options.qlauncherOptions "qLauncher">
+<!ENTITY options.enableQlauncher "qLauncher engedélyezése">
+<!ENTITY options.invokeQlauncher "qLauncher megjelenítése a következő billentyűkombinációkkal:">
+<!ENTITY options.qlauncherOpenNewTab "Megnyitás új lapon">
+<!ENTITY options.copyAndPasteOptions "Másolás és beillesztés beállítások">
+<!ENTITY options.autoCopySelected "Kijelölt rész automatikus másolása">
+<!ENTITY options.enableMiddleMousePaste "Beillesztés középső egérgombbal">
+<!ENTITY options.enableRightMousePaste "Beillesztés jobb egérgombbal">
+<!ENTITY options.enableLinkify "Szöveges webcímek (URL) kattintható linkké alakítása">
+<!ENTITY options.otherOptions "Egyéb">
+<!ENTITY options.feedbackCaption "Visszajelzés">
+<!ENTITY options.feedbackLabel "Megjegyzések, javaslatok vagy hibajelentések">
+<!ENTITY options.popupBubbleOptions "Felugró buborék">
+<!ENTITY options.popupBubbleDisplayAboveText "Display above text">
+<!ENTITY options.popupBubbleShowDefinitions "Definíció megjelenítése">
+<!ENTITY options.popupBubbleShowLinkInfo "Show link info (Facebook / Twitter)">
+<!ENTITY options.popupBubbleShowLinkInfoAlways "Always show link info">
+<!ENTITY options.popupBubbleOpenNewTab "Megnyitás új lapon">
+<!ENTITY options.popupBubbleForceSingleRow "Megjelenítés egy sorban">
+<!ENTITY options.searchEngines.caption "Keresőmotorok">
+<!ENTITY options.searchEngines.Wikipedia "Search Wikipedia">
+<!ENTITY options.searchEngines.OneRiot "OneRiot használata">
+<!ENTITY options.searchEngines.IMDB "IMDB használata">
+<!ENTITY options.searchEngines.Yandex "Yandex használata">
+<!ENTITY options.searchEngines.Delicious "Delicious használata">
+<!ENTITY options.searchEngines.Twitter "Twitter használata">
+<!ENTITY options.searchEngines.SurfCanyon "Surf Canyon használata">
+<!ENTITY options.searchEngines.Bing "Bing használata">
+<!ENTITY options.searchEngines.Baidu "Baidu használata">
+<!ENTITY options.searchEngines.Reddit "Reddit használata">
+<!ENTITY options.searchEngines.YouTube "YouTube használata">
+<!ENTITY options.searchEngines.Wiktionary "Wikiszótár használata">
+<!ENTITY options.searchEngines.Blekko "Search Blekko">
+<!ENTITY options.searchEngines.Google "Google használata">
+<!ENTITY options.searchEngines.GoogleMaps "Search Google Maps">
+<!ENTITY options.searchResultsOptions "Keresési eredmények">
+<!ENTITY options.addSearchRefinements "Keresési találatok pontosítása">
+<!ENTITY options.addSimilarProductSearch "Similar Product Search (Superfish) hozzáadása">
+<!ENTITY options.addRelatedSearchResultsAmazon "Kereséshez kapcsolódó Amazon találatok megjelenítése">
+<!ENTITY options.addRelatedSearchResultsOneriot "Kereséshez kapcsolódó Oneriot találatok megjelenítése">
+<!ENTITY options.addTrendingSearchResultsOneriot "A Oneriot-on népszerű keresési kifejezések hozzáadása">
+<!ENTITY options.addSerpInfoBox "Add DuckDuckGo info boxes to search engines">
+<!ENTITY folder_chooser.choose_folder "Válasszon mappát">
+<!ENTITY folder_chooser.destination_folder "Célmappa:">
+<!ENTITY folder_chooser.browse "Tallózás...">

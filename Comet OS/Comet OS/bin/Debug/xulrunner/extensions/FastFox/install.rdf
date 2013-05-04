@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+
+    <Description about="urn:mozilla:install-manifest">
+        <em:id>smarterwiki@wikiatic.com</em:id>
+        <em:version>5.1.3</em:version>
+        <em:type>2</em:type>
+   
+        <!-- Target Application this extension can install into, 
+             with minimum and maximum supported versions. --> 
+        <em:targetApplication>
+            <Description>
+                <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+                <em:minVersion>3.0</em:minVersion>
+                <em:maxVersion>18.*</em:maxVersion>
+            </Description>
+        </em:targetApplication>
+   
+        <!-- Front End MetaData -->
+        <em:name>FastestFox</em:name>
+        <em:description>View &quot;related articles&quot; box on Wikipedia, search selected text from popup bubble and context menu, search from the Awesomebar, easily switch search engines for a search, and visit bookmarks with keyboard shortcuts!</em:description>
+        <em:creator>smarterfox.com</em:creator>
+        <em:homepageURL>http://smarterfox.com/</em:homepageURL>
+        
+        <!-- Optional options -->
+        <em:iconURL>chrome://smarterwiki/skin/smarterfox-logo-32x32.png</em:iconURL><!-- 32x32 -->
+        <em:optionsURL>chrome://smarterwiki/content/options.xul</em:optionsURL>
+
+
+
+        <!-- Translation credits -->
+        <em:contributor>mik (cs-CZ translation)</em:contributor>   
+        <em:contributor>Joergen (da-DK translation)</em:contributor>   
+        <em:contributor>Fenian (de-DE translation)</em:contributor>   
+        <em:contributor>Team erweiterungen.de (de-DE translation)</em:contributor>   
+        <em:contributor>Fux (de-DE translation)</em:contributor>   
+        <em:contributor>Sonickydon (el-GR translation)</em:contributor>   
+        <em:contributor>agusdallalba (es-AR translation)</em:contributor>   
+        <em:contributor>jojaba (fr-FR translation)</em:contributor>   
+        <em:contributor>Ste_95 (it-IT translation)</em:contributor>   
+        <em:contributor>renegade06 (mk-MK translation)</em:contributor>   
+        <em:contributor>StephanMahieu (nl-NL translation)</em:contributor>   
+        <em:contributor>teo (pl-PL translation)</em:contributor>   
+        <em:contributor>paulusiohannes (pt-BR translation)</em:contributor>   
+        <em:contributor>alexxed (ro-RO translation)</em:contributor>   
+        <em:contributor>DakSrbija (sr-RS translation)</em:contributor>   
+        <em:contributor>shaman (tr-TR translation)</em:contributor>   
+        <em:contributor>badboyinbests (vi translation)</em:contributor>  
+        <em:contributor>loveleeyoungae (vi-VN translation)</em:contributor>   
+        <em:contributor>andy1000 (zh-CN translation)</em:contributor>
+        <em:contributor>Pouyan (fa-IR translation)</em:contributor>
+        
+    </Description>      
+</RDF>

@@ -1,0 +1,65 @@
+<!ENTITY extension.name "FastestFox">
+<!ENTITY contextMenu.downloadPageMedia "Download sidens medier">
+<!ENTITY contextMenu.downloadPageLinks "Download sidens links">
+<!ENTITY contextMenu.downloadPageImages "Download sidens billeder">
+<!ENTITY contextMenu.downloadAllLinks "Download alle links">
+<!ENTITY contextMenu.downloadAllImages "Download alle billeder">
+<!ENTITY contextMenu.downloadSelection "Download det markerede">
+<!ENTITY contextMenu.searchWikipedia "Søg markering på Wikipedia">
+<!ENTITY contextMenu.removeSelection "Fjern det markerede">
+<!ENTITY options.window.title "FastestFox Indstillinger">
+<!ENTITY options.generalOptions "Generelt">
+<!ENTITY options.searchOptions "Søgeindstillinger">
+<!ENTITY options.showPopupBubble "Vis popup-boble">
+<!ENTITY options.enhanceUrlbar "Forbedr Awesomebar (kræver genstart)">
+<!ENTITY options.showContextMenuAdditions "Vis genvejsmenuemner">
+<!ENTITY options.enableEndlessPages "Aktiver endeløse sider">
+<!ENTITY options.copyPaste "Kopier &amp; Indsæt">
+<!ENTITY options.wikipediaOptions "Wikipedia-indstillinger">
+<!ENTITY options.addRelatedArticles "Tilføj &quot;related articles&quot; til Wikipedia">
+<!ENTITY options.addOtherSearchEngines "Tilføj andre søgetjenester til søgeresultater">
+<!ENTITY options.qlauncherOptions "qLauncher">
+<!ENTITY options.enableQlauncher "Aktiver qLauncher">
+<!ENTITY options.invokeQlauncher "Aktiver qLauncher ved tryk på:">
+<!ENTITY options.qlauncherOpenNewTab "Åbn i et nyt faneblad">
+<!ENTITY options.copyAndPasteOptions "Indstillinger for Kopier og Indsæt">
+<!ENTITY options.autoCopySelected "Autokopier markering">
+<!ENTITY options.enableMiddleMousePaste "Indsæt med midterklik">
+<!ENTITY options.enableRightMousePaste "Indsæt med højre museklik">
+<!ENTITY options.enableLinkify "Gør tekst til links">
+<!ENTITY options.otherOptions "Andet">
+<!ENTITY options.feedbackCaption "Feedback">
+<!ENTITY options.feedbackLabel "Kommentarer, forslag eller fejlrapporter">
+<!ENTITY options.popupBubbleOptions "Popup-boble">
+<!ENTITY options.popupBubbleDisplayAboveText "Display above text">
+<!ENTITY options.popupBubbleShowDefinitions "Vis definitioner">
+<!ENTITY options.popupBubbleShowLinkInfo "Show link info (Facebook / Twitter)">
+<!ENTITY options.popupBubbleShowLinkInfoAlways "Always show link info">
+<!ENTITY options.popupBubbleOpenNewTab "Åbn i et nyt faneblad">
+<!ENTITY options.popupBubbleForceSingleRow "Vis i en enkelt række">
+<!ENTITY options.searchEngines.caption "Søgetjenester">
+<!ENTITY options.searchEngines.Wikipedia "Search Wikipedia">
+<!ENTITY options.searchEngines.OneRiot "Søg på OneRiot">
+<!ENTITY options.searchEngines.IMDB "Search IMDB">
+<!ENTITY options.searchEngines.Yandex "Søg på Yandex">
+<!ENTITY options.searchEngines.Delicious "Søg på Delicious">
+<!ENTITY options.searchEngines.Twitter "Søg på Twitter">
+<!ENTITY options.searchEngines.SurfCanyon "Søg på Surf Canyon">
+<!ENTITY options.searchEngines.Bing "Søg på Bing">
+<!ENTITY options.searchEngines.Baidu "Søg på Baidu">
+<!ENTITY options.searchEngines.Reddit "Søg på Reddit">
+<!ENTITY options.searchEngines.YouTube "Søg på YouTube">
+<!ENTITY options.searchEngines.Wiktionary "Søg på Wiktionary">
+<!ENTITY options.searchEngines.Blekko "Search Blekko">
+<!ENTITY options.searchEngines.Google "Søg på Google">
+<!ENTITY options.searchEngines.GoogleMaps "Search Google Maps">
+<!ENTITY options.searchResultsOptions "Søgeresultater">
+<!ENTITY options.addSearchRefinements "Tilføj søgeforbedringer">
+<!ENTITY options.addSimilarProductSearch "Add Similar Product Search (Superfish)">
+<!ENTITY options.addRelatedSearchResultsAmazon "Tilføj relaterede søgeresultater fra Amazon">
+<!ENTITY options.addRelatedSearchResultsOneriot "Tilføj relaterede søgeresultater fra Oneriot">
+<!ENTITY options.addTrendingSearchResultsOneriot "Tilføj trend-sættende søgeresultater fra Oneriot">
+<!ENTITY options.addSerpInfoBox "Add DuckDuckGo info boxes to search engines">
+<!ENTITY folder_chooser.choose_folder "Vælg mappe">
+<!ENTITY folder_chooser.destination_folder "Destinationsmappe:">
+<!ENTITY folder_chooser.browse "Gennemse…">

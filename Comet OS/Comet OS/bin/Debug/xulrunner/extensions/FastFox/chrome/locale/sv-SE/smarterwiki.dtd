@@ -1,0 +1,65 @@
+<!ENTITY extension.name "FastestFox">
+<!ENTITY contextMenu.downloadPageMedia "Ladda ner sidans media">
+<!ENTITY contextMenu.downloadPageLinks "Ladda ner sidans länkar">
+<!ENTITY contextMenu.downloadPageImages "Ladda ner sidans bilder">
+<!ENTITY contextMenu.downloadAllLinks "Ladda ner alla länkar">
+<!ENTITY contextMenu.downloadAllImages "Ladda ner alla bilder">
+<!ENTITY contextMenu.downloadSelection "Ladda ner markering">
+<!ENTITY contextMenu.searchWikipedia "Sök markering på Wikipedia">
+<!ENTITY contextMenu.removeSelection "Ta bort markering">
+<!ENTITY options.window.title "FastestFox-inställningar">
+<!ENTITY options.generalOptions "Allmänt">
+<!ENTITY options.searchOptions "Sökinställningar">
+<!ENTITY options.showPopupBubble "Visa pop-up bubbla">
+<!ENTITY options.enhanceUrlbar "Förbättra Awesomebar (kräver omstart)">
+<!ENTITY options.showContextMenuAdditions "Visa snabbmenystillägg">
+<!ENTITY options.enableEndlessPages "Aktivera &quot;Ändlösa Sidor&quot;">
+<!ENTITY options.copyPaste "Kopiera &amp; klistra in">
+<!ENTITY options.wikipediaOptions "Wikipedia-inställningar">
+<!ENTITY options.addRelatedArticles "Lägg till &quot;relaterade artiklar&quot; till Wikipedia">
+<!ENTITY options.addOtherSearchEngines "Lägg till andra sökmotorer till sökresultaten">
+<!ENTITY options.qlauncherOptions "qLauncher">
+<!ENTITY options.enableQlauncher "Aktivera qLauncher">
+<!ENTITY options.invokeQlauncher "Anropa qLauncher genom att trycka:">
+<!ENTITY options.qlauncherOpenNewTab "Öppna i ny flik">
+<!ENTITY options.copyAndPasteOptions "Inställningar för Kopiera och klistra in">
+<!ENTITY options.autoCopySelected "Automatiskt kopiera markering">
+<!ENTITY options.enableMiddleMousePaste "Klistra in med musens mittenknapp">
+<!ENTITY options.enableRightMousePaste "Klistra in med musens högerknapp">
+<!ENTITY options.enableLinkify "Länkifiera URLer i ren text">
+<!ENTITY options.otherOptions "Övrigt">
+<!ENTITY options.feedbackCaption "Feedback">
+<!ENTITY options.feedbackLabel "Kommentarer, förslag och buggrapporter">
+<!ENTITY options.popupBubbleOptions "Pop-up bubbla">
+<!ENTITY options.popupBubbleDisplayAboveText "Display above text">
+<!ENTITY options.popupBubbleShowDefinitions "Visa definitioner">
+<!ENTITY options.popupBubbleShowLinkInfo "Show link info (Facebook / Twitter)">
+<!ENTITY options.popupBubbleShowLinkInfoAlways "Always show link info">
+<!ENTITY options.popupBubbleOpenNewTab "Öppna i ny flik">
+<!ENTITY options.popupBubbleForceSingleRow "Visa som en enda rad">
+<!ENTITY options.searchEngines.caption "Sökmotorer">
+<!ENTITY options.searchEngines.Wikipedia "Search Wikipedia">
+<!ENTITY options.searchEngines.OneRiot "Sök OneRiot">
+<!ENTITY options.searchEngines.IMDB "Search IMDB">
+<!ENTITY options.searchEngines.Yandex "Sök Yandex">
+<!ENTITY options.searchEngines.Delicious "Sök Delicious">
+<!ENTITY options.searchEngines.Twitter "Sök Twitter">
+<!ENTITY options.searchEngines.SurfCanyon "Sök Surf Canyon">
+<!ENTITY options.searchEngines.Bing "Sök Bing">
+<!ENTITY options.searchEngines.Baidu "Sök Baidu">
+<!ENTITY options.searchEngines.Reddit "Sök Reddit">
+<!ENTITY options.searchEngines.YouTube "Sök YouTube">
+<!ENTITY options.searchEngines.Wiktionary "Sök Wiktionary">
+<!ENTITY options.searchEngines.Blekko "Search Blekko">
+<!ENTITY options.searchEngines.Google "Sök Google">
+<!ENTITY options.searchEngines.GoogleMaps "Search Google Maps">
+<!ENTITY options.searchResultsOptions "Sökresultat">
+<!ENTITY options.addSearchRefinements "Lägg till sökjusteringar">
+<!ENTITY options.addSimilarProductSearch "Add Similar Product Search (Superfish)">
+<!ENTITY options.addRelatedSearchResultsAmazon "Lägg till relaterade sökresultat från Amazon">
+<!ENTITY options.addRelatedSearchResultsOneriot "Lägg till relaterade sökresultat från Oneriot">
+<!ENTITY options.addTrendingSearchResultsOneriot "Add trending Oneriot search results">
+<!ENTITY options.addSerpInfoBox "Add DuckDuckGo info boxes to search engines">
+<!ENTITY folder_chooser.choose_folder "Välj katalog">
+<!ENTITY folder_chooser.destination_folder "Destinationskatalog:">
+<!ENTITY folder_chooser.browse "Bläddra...">

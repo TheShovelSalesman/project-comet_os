@@ -1,0 +1,65 @@
+<!ENTITY extension.name "FastestFox">
+<!ENTITY contextMenu.downloadPageMedia "下載多媒體檔案">
+<!ENTITY contextMenu.downloadPageLinks "下載連結">
+<!ENTITY contextMenu.downloadPageImages "下載圖片">
+<!ENTITY contextMenu.downloadAllLinks "下載全部連結">
+<!ENTITY contextMenu.downloadAllImages "下載全部圖片">
+<!ENTITY contextMenu.downloadSelection "下載選取的部份">
+<!ENTITY contextMenu.searchWikipedia "在維基百科搜尋選取的文字">
+<!ENTITY contextMenu.removeSelection "移除選取的文字">
+<!ENTITY options.window.title "FastestFox 選項">
+<!ENTITY options.generalOptions "一般">
+<!ENTITY options.searchOptions "搜尋選項">
+<!ENTITY options.showPopupBubble "顯示泡泡視窗">
+<!ENTITY options.enhanceUrlbar "加強版的網址列（需要重新啟動瀏覽器）">
+<!ENTITY options.showContextMenuAdditions "顯示右鍵選單的額外項目">
+<!ENTITY options.enableEndlessPages "啟用自動翻頁">
+<!ENTITY options.copyPaste "複製並貼上">
+<!ENTITY options.wikipediaOptions "維基百科選項">
+<!ENTITY options.addRelatedArticles "新增「相關條目」到維基百科">
+<!ENTITY options.addOtherSearchEngines "在搜尋結果中加入其他搜尋引擎的連結">
+<!ENTITY options.qlauncherOptions "qLauncher">
+<!ENTITY options.enableQlauncher "啟用 qLauncher">
+<!ENTITY options.invokeQlauncher "呼叫 qLauncher 的按鍵：">
+<!ENTITY options.qlauncherOpenNewTab "在新分頁開啟">
+<!ENTITY options.copyAndPasteOptions "「複製並貼上」選項">
+<!ENTITY options.autoCopySelected "自動複製選取的文字">
+<!ENTITY options.enableMiddleMousePaste "按滑鼠中鍵貼上">
+<!ENTITY options.enableRightMousePaste "按滑鼠右鍵貼上">
+<!ENTITY options.enableLinkify "將純文字網址轉成連結">
+<!ENTITY options.otherOptions "其他">
+<!ENTITY options.feedbackCaption "回饋">
+<!ENTITY options.feedbackLabel "評論、建議、或是錯誤回報">
+<!ENTITY options.popupBubbleOptions "泡泡視窗">
+<!ENTITY options.popupBubbleDisplayAboveText "Display above text">
+<!ENTITY options.popupBubbleShowDefinitions "顯示定義">
+<!ENTITY options.popupBubbleShowLinkInfo "顯示連結資訊（Facebook / Twitter）">
+<!ENTITY options.popupBubbleShowLinkInfoAlways "總是顯示連結資訊">
+<!ENTITY options.popupBubbleOpenNewTab "在新分頁開啟">
+<!ENTITY options.popupBubbleForceSingleRow "顯示為一整列">
+<!ENTITY options.searchEngines.caption "搜尋引擎">
+<!ENTITY options.searchEngines.Wikipedia "Search Wikipedia">
+<!ENTITY options.searchEngines.OneRiot "在 OneRiot 搜尋">
+<!ENTITY options.searchEngines.IMDB "在 IMDB 搜尋">
+<!ENTITY options.searchEngines.Yandex "在 Yandex 搜尋">
+<!ENTITY options.searchEngines.Delicious "在 Delicious 搜尋">
+<!ENTITY options.searchEngines.Twitter "在 Twitter 搜尋">
+<!ENTITY options.searchEngines.SurfCanyon "在 Surf Canyon 搜尋">
+<!ENTITY options.searchEngines.Bing "在 Bing 搜尋">
+<!ENTITY options.searchEngines.Baidu "用百度搜尋">
+<!ENTITY options.searchEngines.Reddit "在 Reddit 搜尋">
+<!ENTITY options.searchEngines.YouTube "在 YouTube 搜尋">
+<!ENTITY options.searchEngines.Wiktionary "用維基詞典搜尋">
+<!ENTITY options.searchEngines.Blekko "Search Blekko">
+<!ENTITY options.searchEngines.Google "在 Google 搜尋">
+<!ENTITY options.searchEngines.GoogleMaps "Search Google Maps">
+<!ENTITY options.searchResultsOptions "搜尋結果">
+<!ENTITY options.addSearchRefinements "微調優化搜尋結果">
+<!ENTITY options.addSimilarProductSearch "新增類似產品搜尋（Superfish）">
+<!ENTITY options.addRelatedSearchResultsAmazon "新增 Amazon 的相關搜尋結果">
+<!ENTITY options.addRelatedSearchResultsOneriot "新增 OneRiot 的相關搜尋結果">
+<!ENTITY options.addTrendingSearchResultsOneriot "新增 OneRiot 的趨勢搜尋結果">
+<!ENTITY options.addSerpInfoBox "Add DuckDuckGo info boxes to search engines">
+<!ENTITY folder_chooser.choose_folder "選擇資料夾">
+<!ENTITY folder_chooser.destination_folder "目標資料夾：">
+<!ENTITY folder_chooser.browse "瀏覽…">

@@ -1,0 +1,22 @@
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\bin\x64\Debug\Comet OS.exe.config
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x64\Debug\Interop.WMPLib.dll
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x64\Debug\AxInterop.WMPLib.dll
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x64\Debug\Comet OS.vbproj.ResolveComReference.cache
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\bin\x64\Debug\Comet OS.exe
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\bin\x64\Debug\Comet OS.pdb
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\bin\x64\Debug\Skybound.Gecko.dll
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\bin\x64\Debug\Interop.WMPLib.dll
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\bin\x64\Debug\AxInterop.WMPLib.dll
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x64\Debug\Comet_OS.accountCreate.resources
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x64\Debug\Comet_OS.CelloNet.resources
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x64\Debug\Comet_OS.Clef.resources
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x64\Debug\Comet_OS.Desktop.resources
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x64\Debug\Comet_OS.errorMessage.resources
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x64\Debug\Comet_OS.Loading.resources
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x64\Debug\Comet_OS.LoginForm.resources
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x64\Debug\Comet_OS.Resources.resources
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x64\Debug\GenerateResource.read.1.tlog
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x64\Debug\GenerateResource.write.1.tlog
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x64\Debug\Comet OS.exe
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x64\Debug\Comet OS.pdb

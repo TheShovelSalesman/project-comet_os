@@ -1,0 +1,65 @@
+<!ENTITY extension.name "FastestFox">
+<!ENTITY contextMenu.downloadPageMedia "Download page media">
+<!ENTITY contextMenu.downloadPageLinks "Download page links">
+<!ENTITY contextMenu.downloadPageImages "Download page images">
+<!ENTITY contextMenu.downloadAllLinks "Изтегли всички линкове">
+<!ENTITY contextMenu.downloadAllImages "Изтегли всички изображения">
+<!ENTITY contextMenu.downloadSelection "Изтегли маркираното">
+<!ENTITY contextMenu.searchWikipedia "Search selection on Wikipedia">
+<!ENTITY contextMenu.removeSelection "Премахи маркировката">
+<!ENTITY options.window.title "Настройки на FasterFox">
+<!ENTITY options.generalOptions "Общи">
+<!ENTITY options.searchOptions "Настройки за търсене">
+<!ENTITY options.showPopupBubble "Показвай изплуващ балон">
+<!ENTITY options.enhanceUrlbar "Enhance Awesomebar (requires restart)">
+<!ENTITY options.showContextMenuAdditions "Покажи допълнения за контекстното меню">
+<!ENTITY options.enableEndlessPages "Enable Endless Pages">
+<!ENTITY options.copyPaste "Копирай &amp; Постави">
+<!ENTITY options.wikipediaOptions "Настройки на Уикипедия">
+<!ENTITY options.addRelatedArticles "Разреши безкрайни страници">
+<!ENTITY options.addOtherSearchEngines "Добави други търсачки към резултатите">
+<!ENTITY options.qlauncherOptions "qLauncher">
+<!ENTITY options.enableQlauncher "Включи qLauncher">
+<!ENTITY options.invokeQlauncher "Извикай qLauncher с натискане на:">
+<!ENTITY options.qlauncherOpenNewTab "Отвори в нов раздел">
+<!ENTITY options.copyAndPasteOptions "Настройки на Копирай и Постави">
+<!ENTITY options.autoCopySelected "Auto copy selected">
+<!ENTITY options.enableMiddleMousePaste "Поставяй със среден клик на мишката">
+<!ENTITY options.enableRightMousePaste "Paste on right mouse click">
+<!ENTITY options.enableLinkify "Linkify text urls">
+<!ENTITY options.otherOptions "Друго">
+<!ENTITY options.feedbackCaption "Обратна връзка">
+<!ENTITY options.feedbackLabel "Коментари, предложения или докладване на грешки">
+<!ENTITY options.popupBubbleOptions "Изплуващ балон">
+<!ENTITY options.popupBubbleDisplayAboveText "Display above text">
+<!ENTITY options.popupBubbleShowDefinitions "Показвай определенията">
+<!ENTITY options.popupBubbleShowLinkInfo "Show link info (Facebook / Twitter)">
+<!ENTITY options.popupBubbleShowLinkInfoAlways "Always show link info">
+<!ENTITY options.popupBubbleOpenNewTab "Отвори в нов раздел">
+<!ENTITY options.popupBubbleForceSingleRow "Показвай като един ред">
+<!ENTITY options.searchEngines.caption "Търсачки">
+<!ENTITY options.searchEngines.Wikipedia "Search Wikipedia">
+<!ENTITY options.searchEngines.OneRiot "Търси с OneRiot">
+<!ENTITY options.searchEngines.IMDB "Search IMDB">
+<!ENTITY options.searchEngines.Yandex "Търси с Yandex">
+<!ENTITY options.searchEngines.Delicious "Търси с Delicious">
+<!ENTITY options.searchEngines.Twitter "Търси с Twitter">
+<!ENTITY options.searchEngines.SurfCanyon "Търси с Canyon">
+<!ENTITY options.searchEngines.Bing "Търси с">
+<!ENTITY options.searchEngines.Baidu "Търси с Baidu">
+<!ENTITY options.searchEngines.Reddit "Търси с Reddit">
+<!ENTITY options.searchEngines.YouTube "Търси с YouTube">
+<!ENTITY options.searchEngines.Wiktionary "Търси с Wiktionary">
+<!ENTITY options.searchEngines.Blekko "Search Blekko">
+<!ENTITY options.searchEngines.Google "Търси с Google">
+<!ENTITY options.searchEngines.GoogleMaps "Search Google Maps">
+<!ENTITY options.searchResultsOptions "Search Results">
+<!ENTITY options.addSearchRefinements "Add search Refinements">
+<!ENTITY options.addSimilarProductSearch "Add Similar Product Search (Superfish)">
+<!ENTITY options.addRelatedSearchResultsAmazon "Add related Amazon search results">
+<!ENTITY options.addRelatedSearchResultsOneriot "Add related Oneriot search results">
+<!ENTITY options.addTrendingSearchResultsOneriot "Add trending Oneriot search results">
+<!ENTITY options.addSerpInfoBox "Add DuckDuckGo info boxes to search engines">
+<!ENTITY folder_chooser.choose_folder "Изберете папка">
+<!ENTITY folder_chooser.destination_folder "Целева папка:">
+<!ENTITY folder_chooser.browse "Претърси...">

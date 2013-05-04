@@ -1,0 +1,65 @@
+<!ENTITY extension.name "FastestFox">
+<!ENTITY contextMenu.downloadPageMedia "ページのメディアをダウンロード">
+<!ENTITY contextMenu.downloadPageLinks "ページのリンクをダウンロード">
+<!ENTITY contextMenu.downloadPageImages "ページの画像をダウンロード">
+<!ENTITY contextMenu.downloadAllLinks "全てのリンクをダウンロード">
+<!ENTITY contextMenu.downloadAllImages "全ての画像をダウンロード">
+<!ENTITY contextMenu.downloadSelection "選択したものをダウンロード">
+<!ENTITY contextMenu.searchWikipedia "Wikipediaで検索">
+<!ENTITY contextMenu.removeSelection "選択を解除する">
+<!ENTITY options.window.title "FastestFoxオプション">
+<!ENTITY options.generalOptions "基本">
+<!ENTITY options.searchOptions "検索設定">
+<!ENTITY options.showPopupBubble "テキスト選択時にポップアップボタンを表示する">
+<!ENTITY options.enhanceUrlbar "ロケーションバー拡張を有効にする">
+<!ENTITY options.showContextMenuAdditions "コンテキストメニューに表示する">
+<!ENTITY options.enableEndlessPages "連続ページスクロールを有効にする">
+<!ENTITY options.copyPaste "コピー&amp;貼り付け">
+<!ENTITY options.wikipediaOptions "ウィキペディアオプション">
+<!ENTITY options.addRelatedArticles "ウィキペディアに関連リンクを追加する">
+<!ENTITY options.addOtherSearchEngines "検索結果に「その他の検索エンジンで検索」を表示する">
+<!ENTITY options.qlauncherOptions "ランチャー">
+<!ENTITY options.enableQlauncher "ランチャーを使用する">
+<!ENTITY options.invokeQlauncher "ランチャー起動のためのショートカットキー">
+<!ENTITY options.qlauncherOpenNewTab "新しいタブで開く">
+<!ENTITY options.copyAndPasteOptions "コピー&amp;貼り付けの設定">
+<!ENTITY options.autoCopySelected "テキスト選択時に自動コピーする">
+<!ENTITY options.enableMiddleMousePaste "ミドルクリックで貼り付けする">
+<!ENTITY options.enableRightMousePaste "右クリックで貼り付けを行う">
+<!ENTITY options.enableLinkify "テキスト形式のURLをクリック可能にする">
+<!ENTITY options.otherOptions "その他">
+<!ENTITY options.feedbackCaption "フィードバック">
+<!ENTITY options.feedbackLabel "コメントや提案、バグ報告">
+<!ENTITY options.popupBubbleOptions "ポップアップボタン">
+<!ENTITY options.popupBubbleDisplayAboveText "Display above text">
+<!ENTITY options.popupBubbleShowDefinitions "定義を表示する">
+<!ENTITY options.popupBubbleShowLinkInfo "リンク情報を表示(Facebook / Twitter)">
+<!ENTITY options.popupBubbleShowLinkInfoAlways "リンク情報を常に表示">
+<!ENTITY options.popupBubbleOpenNewTab "新しいタブで開く">
+<!ENTITY options.popupBubbleForceSingleRow "一行で表示する">
+<!ENTITY options.searchEngines.caption "検索エンジン">
+<!ENTITY options.searchEngines.Wikipedia "Search Wikipedia">
+<!ENTITY options.searchEngines.OneRiot "OneRiotで検索">
+<!ENTITY options.searchEngines.IMDB "IMDBを検索">
+<!ENTITY options.searchEngines.Yandex "Yandexで検索">
+<!ENTITY options.searchEngines.Delicious "Deliciousで検索">
+<!ENTITY options.searchEngines.Twitter "Twitterで検索">
+<!ENTITY options.searchEngines.SurfCanyon "Surf Canyonで検索">
+<!ENTITY options.searchEngines.Bing "Bingで検索">
+<!ENTITY options.searchEngines.Baidu "Baiduで検索">
+<!ENTITY options.searchEngines.Reddit "Redditで検索">
+<!ENTITY options.searchEngines.YouTube "YouTubeで検索">
+<!ENTITY options.searchEngines.Wiktionary "Wiktionaryで検索">
+<!ENTITY options.searchEngines.Blekko "Search Blekko">
+<!ENTITY options.searchEngines.Google "Googleで検索">
+<!ENTITY options.searchEngines.GoogleMaps "Search Google Maps">
+<!ENTITY options.searchResultsOptions "検索結果">
+<!ENTITY options.addSearchRefinements "絞り込み検索を追加する">
+<!ENTITY options.addSimilarProductSearch "関連する製品検索を追加(Superfish)">
+<!ENTITY options.addRelatedSearchResultsAmazon "Amazonの検索結果に関連する検索結果を表示する">
+<!ENTITY options.addRelatedSearchResultsOneriot "Oneriotの検索結果に関連する検索結果を表示する">
+<!ENTITY options.addTrendingSearchResultsOneriot "Amazonの検索結果に人気の検索結果を表示する">
+<!ENTITY options.addSerpInfoBox "Add DuckDuckGo info boxes to search engines">
+<!ENTITY folder_chooser.choose_folder "フォルダを選択">
+<!ENTITY folder_chooser.destination_folder "保存先のフォルダ:">
+<!ENTITY folder_chooser.browse "参照...">

@@ -1,0 +1,313 @@
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\bin\Debug\Comet OS.exe
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\bin\Debug\Comet OS.pdb
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\bin\Debug\Comet OS.xml
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.LoginForm.resources
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Resources.resources
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet OS.exe
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet OS.xml
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet OS.pdb
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\bin\Debug\Comet OS.exe.config
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.accountCreate.resources
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Desktop.resources
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.errorMessage.resources
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Loading.resources
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\bin\Debug\Interop.WMPLib.dll
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet OS.vbproj.ResolveComReference.cache
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Clef.resources
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.CelloNet.resources
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.SystemInfo.resources
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.CelloNetSettings.resources
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.EpicText.resources
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\bin\Debug\geckofx-13.pdb
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Legacy.resources
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.zOS0.resources
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.zOS0CelloNet.resources
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\bin\Debug\Comet OS.exe.manifest
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\bin\Debug\Comet OS.application
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet OS.exe.manifest
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet OS.application
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Calculator.resources
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.start.resources
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Space_Invaders.resources
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.About.resources
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.minimize.resources
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Settings.resources
+C:\Users\Cody\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\bin\Debug\WebKit.Interop.dll
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\bin\Debug\Comet OS.exe.config
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Interop.WMPLib.dll
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet OS.vbproj.ResolveComReference.cache
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet OS.exe
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet OS.xml
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet OS.pdb
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\bin\Debug\Comet OS.exe.manifest
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\bin\Debug\Comet OS.application
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\bin\Debug\Comet OS.exe
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\bin\Debug\Comet OS.pdb
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\bin\Debug\Comet OS.xml
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\bin\Debug\WebKit.Interop.dll
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\bin\Debug\geckofx-13.pdb
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\bin\Debug\Interop.WMPLib.dll
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\bin\Debug\AxInterop.WMPLib.dll
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.About.resources
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.accountCreate.resources
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Calculator.resources
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.CelloNet.resources
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.CelloNetSettings.resources
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Clef.resources
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Desktop.resources
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.EpicText.resources
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.errorMessage.resources
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Legacy.resources
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Loading.resources
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.LoginForm.resources
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.minimize.resources
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Resources.resources
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Settings.resources
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Space_Invaders.resources
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.start.resources
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.SystemInfo.resources
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.zOS0.resources
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.zOS0CelloNet.resources
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet OS.exe.manifest
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet OS.application
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.EpicTextMax.resources
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.EpicTextHelp.resources
+E:\Dad Stuff\Ninja backup\Documents\Visual Studio 2010\Projects\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Console.resources
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\bin\Debug\Comet OS.exe.config
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\obj\x86\Debug\Comet OS.vbproj.ResolveComReference.cache
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\obj\x86\Debug\Comet OS.exe
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\obj\x86\Debug\Comet OS.xml
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\obj\x86\Debug\Comet OS.pdb
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\bin\Debug\Comet OS.exe.manifest
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\bin\Debug\Comet OS.application
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\bin\Debug\Comet OS.exe
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\bin\Debug\Comet OS.pdb
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\bin\Debug\Comet OS.xml
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\bin\Debug\geckofx-13.dll
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\bin\Debug\WebKitBrowser.dll
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\bin\Debug\WebKit.Interop.dll
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\bin\Debug\geckofx-13.pdb
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\bin\Debug\Interop.WMPLib.dll
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.About.resources
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.accountCreate.resources
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Calculator.resources
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.CelloNet.resources
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.CelloNetSettings.resources
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Clef.resources
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Console.resources
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Desktop.resources
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.EpicText.resources
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.EpicTextMax.resources
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.errorMessage.resources
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.EpicTextHelp.resources
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Legacy.resources
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Loading.resources
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.LoginForm.resources
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.minimize.resources
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Resources.resources
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Settings.resources
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Space_Invaders.resources
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.start.resources
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.SystemInfo.resources
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.zOS0.resources
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.zOS0CelloNet.resources
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\obj\x86\Debug\Comet OS.exe.manifest
+C:\Users\Cody\Downloads\Comet OS(2)\Comet OS\Comet OS\obj\x86\Debug\Comet OS.application
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\bin\Debug\Comet OS.exe.config
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet OS.vbproj.ResolveComReference.cache
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet OS.exe
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet OS.xml
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet OS.pdb
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\bin\Debug\Comet OS.exe.manifest
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\bin\Debug\Comet OS.application
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\bin\Debug\Comet OS.exe
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\bin\Debug\Comet OS.pdb
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\bin\Debug\Comet OS.xml
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\bin\Debug\WebKit.Interop.dll
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\bin\Debug\geckofx-13.pdb
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\bin\Debug\Interop.WMPLib.dll
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.About.resources
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.accountCreate.resources
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Calculator.resources
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.CelloNet.resources
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Clef.resources
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Console.resources
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Desktop.resources
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.EpicText.resources
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.EpicTextMax.resources
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.errorMessage.resources
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.EpicTextHelp.resources
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Legacy.resources
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Loading.resources
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.LoginForm.resources
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.minimize.resources
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Resources.resources
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Settings.resources
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Space_Invaders.resources
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.start.resources
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.SystemInfo.resources
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.zOS0.resources
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.zOS0CelloNet.resources
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet OS.exe.manifest
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet OS.application
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.RlsNotes.resources
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.FlashViewer.resources
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Feedback.resources
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.AppBin.resources
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.CBOD.resources
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.qwop.resources
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.download.resources
+C:\Users\Cody\Desktop\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.screenCapture.resources
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\bin\Debug\Comet OS.exe.config
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet OS.vbproj.ResolveComReference.cache
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet OS.exe
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet OS.xml
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet OS.pdb
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\bin\Debug\Comet OS.exe.manifest
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\bin\Debug\Comet OS.application
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\bin\Debug\Comet OS.exe
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\bin\Debug\Comet OS.pdb
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\bin\Debug\Comet OS.xml
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\bin\Debug\WebKit.Interop.dll
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\bin\Debug\geckofx-13.pdb
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\bin\Debug\Interop.WMPLib.dll
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.About.resources
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.accountCreate.resources
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.AppBin.resources
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Calculator.resources
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.CBOD.resources
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.CelloNet.resources
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.download.resources
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Feedback.resources
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.FlashViewer.resources
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.screenCapture.resources
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.qwop.resources
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.RlsNotes.resources
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Clef.resources
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Console.resources
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Desktop.resources
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.EpicText.resources
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.EpicTextMax.resources
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.errorMessage.resources
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.EpicTextHelp.resources
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Legacy.resources
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Loading.resources
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.LoginForm.resources
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.minimize.resources
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Resources.resources
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Settings.resources
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Space_Invaders.resources
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.start.resources
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.SystemInfo.resources
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.zOS0.resources
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.zOS0CelloNet.resources
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet OS.exe.manifest
+C:\Users\Cody\Desktop\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet OS.application
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\bin\Debug\Comet OS.exe.config
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet OS.vbproj.ResolveComReference.cache
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet OS.exe
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet OS.xml
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet OS.pdb
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\bin\Debug\Comet OS.exe.manifest
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\bin\Debug\Comet OS.application
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\bin\Debug\Comet OS.exe
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\bin\Debug\Comet OS.pdb
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\bin\Debug\Comet OS.xml
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\bin\Debug\Interop.WMPLib.dll
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.About.resources
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.accountCreate.resources
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.AppBin.resources
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Calculator.resources
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.CBOD.resources
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.download.resources
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Feedback.resources
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.FlashViewer.resources
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.screenCapture.resources
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.qwop.resources
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.RlsNotes.resources
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Clef.resources
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Console.resources
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Desktop.resources
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.EpicText.resources
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.errorMessage.resources
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Legacy.resources
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Loading.resources
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.LoginForm.resources
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.minimize.resources
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Resources.resources
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Settings.resources
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Space_Invaders.resources
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.start.resources
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.zOS0.resources
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.zOS0CelloNet.resources
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet OS.exe.manifest
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet OS.application
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.Sapphire.resources
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.GS.resources
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.template.resources
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.sysMenu.resources
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\bin\Debug\geckofx-core-18.dll
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\bin\Debug\Geckofx-Winforms-18.dll
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\bin\Debug\geckofx-core-18.pdb
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\bin\Debug\Geckofx-Winforms-18.pdb
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.sapphireSettings.resources
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet_OS.bookmarkManager.resources
+C:\Users\Cody\Documents\Galaxy Software\Comet OS\Comet OS Source\Comet OS\Comet OS\obj\x86\Debug\Comet OS.TrustInfo.xml

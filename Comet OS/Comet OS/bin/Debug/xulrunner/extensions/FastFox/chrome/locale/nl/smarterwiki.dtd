@@ -1,0 +1,65 @@
+<!ENTITY extension.name "Fastestfox">
+<!ENTITY contextMenu.downloadPageMedia "Media op pagina downloaden">
+<!ENTITY contextMenu.downloadPageLinks "Verwijzingen op pagina downloaden">
+<!ENTITY contextMenu.downloadPageImages "Afbeeldingen op pagina downloaden">
+<!ENTITY contextMenu.downloadAllLinks "Alle koppelingen downloaden">
+<!ENTITY contextMenu.downloadAllImages "Alle afbeeldingen downloaden">
+<!ENTITY contextMenu.downloadSelection "Selectie downloaden">
+<!ENTITY contextMenu.searchWikipedia "Selectie zoeken op Wikipedia">
+<!ENTITY contextMenu.removeSelection "Selectie verwijderen">
+<!ENTITY options.window.title "Fastestfox-opties">
+<!ENTITY options.generalOptions "Algemeen">
+<!ENTITY options.searchOptions "Zoekopties">
+<!ENTITY options.showPopupBubble "Pop-upballon weergeven">
+<!ENTITY options.enhanceUrlbar "Awesomebar verbeteren (herstart vereist)">
+<!ENTITY options.showContextMenuAdditions "Contextmenutoevoegingen weergeven">
+<!ENTITY options.enableEndlessPages "Eindeloze pagina’s inschakelen">
+<!ENTITY options.copyPaste "Kopiëren &amp; Plakken">
+<!ENTITY options.wikipediaOptions "Wikipedia-opties">
+<!ENTITY options.addRelatedArticles "“Gerelateerde artikelen” aan Wikipedia toevoegen">
+<!ENTITY options.addOtherSearchEngines "Andere zoekmachines aan zoekresultaten toevoegen">
+<!ENTITY options.qlauncherOptions "qLauncher">
+<!ENTITY options.enableQlauncher "qLauncher inschakelen">
+<!ENTITY options.invokeQlauncher "qLauncher starten door intoetsen van:">
+<!ENTITY options.qlauncherOpenNewTab "Openen in nieuw tabblad">
+<!ENTITY options.copyAndPasteOptions "Opties voor kopiëren en plakken">
+<!ENTITY options.autoCopySelected "Selectie automatisch kopiëren">
+<!ENTITY options.enableMiddleMousePaste "Plakken met middelste muisklik">
+<!ENTITY options.enableRightMousePaste "Plakken met rechtermuisklik">
+<!ENTITY options.enableLinkify "Verwijzing van tekst-URL’s maken">
+<!ENTITY options.otherOptions "Overig">
+<!ENTITY options.feedbackCaption "Terugkoppeling">
+<!ENTITY options.feedbackLabel "Commentaar, suggesties, of foutrapporten">
+<!ENTITY options.popupBubbleOptions "Pop-upballon">
+<!ENTITY options.popupBubbleDisplayAboveText "Display above text">
+<!ENTITY options.popupBubbleShowDefinitions "Definities weergeven">
+<!ENTITY options.popupBubbleShowLinkInfo "Toon link info (Facebook/Twitter)">
+<!ENTITY options.popupBubbleShowLinkInfoAlways "Altijd link info tonen">
+<!ENTITY options.popupBubbleOpenNewTab "Openen in nieuw tabblad">
+<!ENTITY options.popupBubbleForceSingleRow "In enkele regel weergeven">
+<!ENTITY options.searchEngines.caption "Zoekmachines">
+<!ENTITY options.searchEngines.Wikipedia "Search Wikipedia">
+<!ENTITY options.searchEngines.OneRiot "Zoeken op OneRiot">
+<!ENTITY options.searchEngines.IMDB "Zoeken op IMDB">
+<!ENTITY options.searchEngines.Yandex "Zoeken op Yandex">
+<!ENTITY options.searchEngines.Delicious "Zoeken op Delicious">
+<!ENTITY options.searchEngines.Twitter "Zoeken op Twitter">
+<!ENTITY options.searchEngines.SurfCanyon "Zoeken op Surf Canyon">
+<!ENTITY options.searchEngines.Bing "Zoeken op Bing">
+<!ENTITY options.searchEngines.Baidu "Zoeken op Baidu">
+<!ENTITY options.searchEngines.Reddit "Zoeken op Reddit">
+<!ENTITY options.searchEngines.YouTube "Zoeken op YouTube">
+<!ENTITY options.searchEngines.Wiktionary "Zoeken op Wiktionary">
+<!ENTITY options.searchEngines.Blekko "Search Blekko">
+<!ENTITY options.searchEngines.Google "Zoeken op Google">
+<!ENTITY options.searchEngines.GoogleMaps "Search Google Maps">
+<!ENTITY options.searchResultsOptions "Zoekresultaten">
+<!ENTITY options.addSearchRefinements "Zoekverfijningen toevoegen">
+<!ENTITY options.addSimilarProductSearch "Zoeken naar vergelijkbare producten (Superfish) toevoegen">
+<!ENTITY options.addRelatedSearchResultsAmazon "Gerelateerde Amazon-zoekresultaten toevoegen">
+<!ENTITY options.addRelatedSearchResultsOneriot "Gerelateerde Oneriot-zoekresultaten toevoegen">
+<!ENTITY options.addTrendingSearchResultsOneriot "“trending”-Oneriot-zoekresultaten toevoegen">
+<!ENTITY options.addSerpInfoBox "Add DuckDuckGo info boxes to search engines">
+<!ENTITY folder_chooser.choose_folder "Kies map">
+<!ENTITY folder_chooser.destination_folder "Doelmap:">
+<!ENTITY folder_chooser.browse "Bladeren…">

@@ -1,0 +1,65 @@
+<!ENTITY extension.name "FastestFox">
+<!ENTITY contextMenu.downloadPageMedia "Lataa sivun mediasisältö">
+<!ENTITY contextMenu.downloadPageLinks "Lataa sivun linkit">
+<!ENTITY contextMenu.downloadPageImages "Lataa sivun kuvat">
+<!ENTITY contextMenu.downloadAllLinks "Lataa kaikki linkit">
+<!ENTITY contextMenu.downloadAllImages "Lataa kaikki kuvat">
+<!ENTITY contextMenu.downloadSelection "Lataa valinta">
+<!ENTITY contextMenu.searchWikipedia "Hae valintaa Wikpediasta">
+<!ENTITY contextMenu.removeSelection "Poista valinta">
+<!ENTITY options.window.title "FastestFox - Asetukset">
+<!ENTITY options.generalOptions "Yleiset">
+<!ENTITY options.searchOptions "Hakuasetukset">
+<!ENTITY options.showPopupBubble "Näytä ponnahduskupla">
+<!ENTITY options.enhanceUrlbar "Laajenna älykkään osoitepalkin toiminnallisuutta (vaatii uudelleenkäynnistyksen)">
+<!ENTITY options.showContextMenuAdditions "Näytä ponnahdusvalikon lisävalinnat">
+<!ENTITY options.enableEndlessPages "Ota loputtomat sivut -toiminto käyttöön">
+<!ENTITY options.copyPaste "Kopioi &amp; liitä">
+<!ENTITY options.wikipediaOptions "Wikipedia-asetukset">
+<!ENTITY options.addRelatedArticles "Lisää ”aiheeseen liittyvät artikkelit” Wikipediaan">
+<!ENTITY options.addOtherSearchEngines "Lisää muut hakukoneet hakutuloksiin">
+<!ENTITY options.qlauncherOptions "qLauncher">
+<!ENTITY options.enableQlauncher "Ota qLauncher käyttöön">
+<!ENTITY options.invokeQlauncher "Käynnistä qLauncher painamalla:">
+<!ENTITY options.qlauncherOpenNewTab "Avaa uuteen välilehteen">
+<!ENTITY options.copyAndPasteOptions "Kopiointi- ja liittämisasetukset">
+<!ENTITY options.autoCopySelected "Kopioi valinta automaattisesti">
+<!ENTITY options.enableMiddleMousePaste "Liitä hiiren keskimmäisellä painikkeella">
+<!ENTITY options.enableRightMousePaste "Liitä hiiren oikealla painikkeella">
+<!ENTITY options.enableLinkify "Muunna verkko-osoitteet (URL) linkeiksi">
+<!ENTITY options.otherOptions "Muut">
+<!ENTITY options.feedbackCaption "Palaute">
+<!ENTITY options.feedbackLabel "Kommentit, ehdotukset tai vikailmoitukset">
+<!ENTITY options.popupBubbleOptions "Ponnahduskupla">
+<!ENTITY options.popupBubbleDisplayAboveText "Display above text">
+<!ENTITY options.popupBubbleShowDefinitions "Näytä määritelmät">
+<!ENTITY options.popupBubbleShowLinkInfo "Näytä linkin tiedot (Facebook/Twitter)">
+<!ENTITY options.popupBubbleShowLinkInfoAlways "Näytä aina linkin tiedot">
+<!ENTITY options.popupBubbleOpenNewTab "Avaa uuteen välilehteen">
+<!ENTITY options.popupBubbleForceSingleRow "Näytä yhdellä rivillä">
+<!ENTITY options.searchEngines.caption "Hakukoneet">
+<!ENTITY options.searchEngines.Wikipedia "Search Wikipedia">
+<!ENTITY options.searchEngines.OneRiot "Hae OneRiotista">
+<!ENTITY options.searchEngines.IMDB "Hae IMDB:stä">
+<!ENTITY options.searchEngines.Yandex "Hae Yandexista">
+<!ENTITY options.searchEngines.Delicious "Hae Deliciousista">
+<!ENTITY options.searchEngines.Twitter "Hae Twitteristä">
+<!ENTITY options.searchEngines.SurfCanyon "Hae Surf Canyonista">
+<!ENTITY options.searchEngines.Bing "Hae Bingistä">
+<!ENTITY options.searchEngines.Baidu "Hae Baidusta">
+<!ENTITY options.searchEngines.Reddit "Hae Redditistä">
+<!ENTITY options.searchEngines.YouTube "Hae YouTubesta">
+<!ENTITY options.searchEngines.Wiktionary "Hae Wiktionarystä">
+<!ENTITY options.searchEngines.Blekko "Search Blekko">
+<!ENTITY options.searchEngines.Google "Hae Googlesta">
+<!ENTITY options.searchEngines.GoogleMaps "Search Google Maps">
+<!ENTITY options.searchResultsOptions "Hakutulokset">
+<!ENTITY options.addSearchRefinements "Lisää haun parannukset">
+<!ENTITY options.addSimilarProductSearch "Lisää samankaltaisten tuotteiden haku (Superfish)">
+<!ENTITY options.addRelatedSearchResultsAmazon "Näytä aiheeseen liittyvät Amazonin hakutulokset">
+<!ENTITY options.addRelatedSearchResultsOneriot "Näytä aiheeseen liittyvät Oneriotin hakutulokset">
+<!ENTITY options.addTrendingSearchResultsOneriot "Lisää trendipohjaisuus OneRiotin hakutuloksiin">
+<!ENTITY options.addSerpInfoBox "Add DuckDuckGo info boxes to search engines">
+<!ENTITY folder_chooser.choose_folder "Valitse kansio">
+<!ENTITY folder_chooser.destination_folder "Kohdekansio:">
+<!ENTITY folder_chooser.browse "Selaa...">

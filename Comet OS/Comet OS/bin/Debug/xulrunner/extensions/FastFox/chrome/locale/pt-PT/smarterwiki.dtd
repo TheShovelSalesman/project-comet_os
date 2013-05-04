@@ -1,0 +1,65 @@
+<!ENTITY extension.name "FastesFox">
+<!ENTITY contextMenu.downloadPageMedia "Descarregar media da página">
+<!ENTITY contextMenu.downloadPageLinks "Descarregar ligações da página">
+<!ENTITY contextMenu.downloadPageImages "Descarregar imagens da página">
+<!ENTITY contextMenu.downloadAllLinks "Descarregar todas as ligações">
+<!ENTITY contextMenu.downloadAllImages "Descarregar todas as imagens">
+<!ENTITY contextMenu.downloadSelection "Descarregar selecção">
+<!ENTITY contextMenu.searchWikipedia "Procurar selecção na Wikipedia">
+<!ENTITY contextMenu.removeSelection "Remover selecção">
+<!ENTITY options.window.title "Opções FastestFox">
+<!ENTITY options.generalOptions "Geral">
+<!ENTITY options.searchOptions "Opções de Procura">
+<!ENTITY options.showPopupBubble "Mostrar bolha popup">
+<!ENTITY options.enhanceUrlbar "Melhorar Awesomebar (requere reinício)">
+<!ENTITY options.showContextMenuAdditions "Mostrar adições do menu de contexto">
+<!ENTITY options.enableEndlessPages "Activar Páginas Infinitas">
+<!ENTITY options.copyPaste "Copiar &amp; Colar">
+<!ENTITY options.wikipediaOptions "Opções Wikipedia">
+<!ENTITY options.addRelatedArticles "Adicionar artigos relacionados na Wikipedia">
+<!ENTITY options.addOtherSearchEngines "Adicionar outros motores de busca aos resultados de procura">
+<!ENTITY options.qlauncherOptions "qLauncher">
+<!ENTITY options.enableQlauncher "Activar qLauncher">
+<!ENTITY options.invokeQlauncher "Invocar qLauncher premindo:">
+<!ENTITY options.qlauncherOpenNewTab "Abrir em novo separador">
+<!ENTITY options.copyAndPasteOptions "Opções de Copiar e Colar">
+<!ENTITY options.autoCopySelected "Auto copiar seleccionado">
+<!ENTITY options.enableMiddleMousePaste "Colar com clique do meio no rato">
+<!ENTITY options.enableRightMousePaste "Colar com clique direito no rato">
+<!ENTITY options.enableLinkify "Tornar urls texto em links">
+<!ENTITY options.otherOptions "Outro">
+<!ENTITY options.feedbackCaption "Feedback">
+<!ENTITY options.feedbackLabel "Comentários, sugestões, ou relato de bugs">
+<!ENTITY options.popupBubbleOptions "Bolha Popup">
+<!ENTITY options.popupBubbleDisplayAboveText "Display above text">
+<!ENTITY options.popupBubbleShowDefinitions "Mostrar definições">
+<!ENTITY options.popupBubbleShowLinkInfo "Mostrar informação da ligação (Facebook / Twitter)">
+<!ENTITY options.popupBubbleShowLinkInfoAlways "Mostrar sempre informação da ligação">
+<!ENTITY options.popupBubbleOpenNewTab "Abrir em novo separador">
+<!ENTITY options.popupBubbleForceSingleRow "Mostrar como linha única">
+<!ENTITY options.searchEngines.caption "Motores de Busca">
+<!ENTITY options.searchEngines.Wikipedia "Search Wikipedia">
+<!ENTITY options.searchEngines.OneRiot "Procurar no OneRiot">
+<!ENTITY options.searchEngines.IMDB "Procurar na IMDB">
+<!ENTITY options.searchEngines.Yandex "Procurar no Yandex">
+<!ENTITY options.searchEngines.Delicious "Procurar no Delicious">
+<!ENTITY options.searchEngines.Twitter "Procurar no Twitter">
+<!ENTITY options.searchEngines.SurfCanyon "Procurar no Surf Canyon">
+<!ENTITY options.searchEngines.Bing "Procurar no Bing">
+<!ENTITY options.searchEngines.Baidu "Procurar no Baidu">
+<!ENTITY options.searchEngines.Reddit "Procurar no Reddit">
+<!ENTITY options.searchEngines.YouTube "Procurar no YouTube">
+<!ENTITY options.searchEngines.Wiktionary "Procurar no Wiktionary">
+<!ENTITY options.searchEngines.Blekko "Search Blekko">
+<!ENTITY options.searchEngines.Google "Procurar no Google">
+<!ENTITY options.searchEngines.GoogleMaps "Search Google Maps">
+<!ENTITY options.searchResultsOptions "Resultados de Busca">
+<!ENTITY options.addSearchRefinements "Adicionar refinamentos de procura">
+<!ENTITY options.addSimilarProductSearch "Adicionar Pesquisa de Produtos Semalhantes (Superfish)">
+<!ENTITY options.addRelatedSearchResultsAmazon "Adicionar resultados de procura relacionados com a Amazon">
+<!ENTITY options.addRelatedSearchResultsOneriot "Adicionar resultados de procura relacionados com o Oneriot">
+<!ENTITY options.addTrendingSearchResultsOneriot "Adicionar resultados de procura tendencionais no Oneriot">
+<!ENTITY options.addSerpInfoBox "Add DuckDuckGo info boxes to search engines">
+<!ENTITY folder_chooser.choose_folder "Escolher Pasta">
+<!ENTITY folder_chooser.destination_folder "Pasta de destino:">
+<!ENTITY folder_chooser.browse "Ver...">

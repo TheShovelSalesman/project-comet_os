@@ -1,0 +1,65 @@
+<!ENTITY extension.name "FastestFox">
+<!ENTITY contextMenu.downloadPageMedia "تحميل وسائط الصفحة">
+<!ENTITY contextMenu.downloadPageLinks "تحميل روابط الصفحة">
+<!ENTITY contextMenu.downloadPageImages "تحميل صور الصفحة">
+<!ENTITY contextMenu.downloadAllLinks "تحميل جميع الروابط">
+<!ENTITY contextMenu.downloadAllImages "تحميل جميع الصور">
+<!ENTITY contextMenu.downloadSelection "تحميل المحدد">
+<!ENTITY contextMenu.searchWikipedia "إبحث عن المحدد في الموسوعة الحرة">
+<!ENTITY contextMenu.removeSelection "إزالة المحدد">
+<!ENTITY options.window.title "خيارات FastestFox">
+<!ENTITY options.generalOptions "عام">
+<!ENTITY options.searchOptions "خيارات البحث">
+<!ENTITY options.showPopupBubble "عرض الفقاعة">
+<!ENTITY options.enhanceUrlbar "تعزيز شريط رائع (يحتاج لإعادة تشغيل)">
+<!ENTITY options.showContextMenuAdditions "إظهار إضافة القائمةالمنسدلة">
+<!ENTITY options.enableEndlessPages "تفعيل صفحات بلا نهاية">
+<!ENTITY options.copyPaste "نسخ ولصق">
+<!ENTITY options.wikipediaOptions "خيارات الموسوعة الحرة">
+<!ENTITY options.addRelatedArticles "إضافة &quot;المواضيع المتعلقة&quot; إلى الموسوعة">
+<!ENTITY options.addOtherSearchEngines "إضافة محرك بحث آخر لنتائج البحث">
+<!ENTITY options.qlauncherOptions "qLauncher">
+<!ENTITY options.enableQlauncher "تفعيل qLauncher">
+<!ENTITY options.invokeQlauncher "تنفيذ qLauncher بالضغط على:">
+<!ENTITY options.qlauncherOpenNewTab "فتح في تبويب جديد">
+<!ENTITY options.copyAndPasteOptions "نسخ ولصق الخيارات">
+<!ENTITY options.autoCopySelected "نسخ آلي للمحدد">
+<!ENTITY options.enableMiddleMousePaste "لصق بالنقر بوسط الفأرة">
+<!ENTITY options.enableRightMousePaste "لصق بالنقر على زر الفأرة الأيمن">
+<!ENTITY options.enableLinkify "تمكين روابط قابلة للضغط">
+<!ENTITY options.otherOptions "أخرى">
+<!ENTITY options.feedbackCaption "ملاحظات">
+<!ENTITY options.feedbackLabel "تعليقات, إقتراحات, أو تبليغ عن أخطاء.">
+<!ENTITY options.popupBubbleOptions "فقاعة">
+<!ENTITY options.popupBubbleDisplayAboveText "Display above text">
+<!ENTITY options.popupBubbleShowDefinitions "عرض التعاريف">
+<!ENTITY options.popupBubbleShowLinkInfo "أظهر معلومات الرابط (فيسبوك / تويتر)">
+<!ENTITY options.popupBubbleShowLinkInfoAlways "دائما أظهر معلومات الرابط">
+<!ENTITY options.popupBubbleOpenNewTab "فتح في تبويب جديد">
+<!ENTITY options.popupBubbleForceSingleRow "عرض سطر واحد">
+<!ENTITY options.searchEngines.caption "محركات البحث">
+<!ENTITY options.searchEngines.Wikipedia "Search Wikipedia">
+<!ENTITY options.searchEngines.OneRiot "بحث OneRiot">
+<!ENTITY options.searchEngines.IMDB "بحث IMDB">
+<!ENTITY options.searchEngines.Yandex "بحث Yandex">
+<!ENTITY options.searchEngines.Delicious "بحث Delicious">
+<!ENTITY options.searchEngines.Twitter "بحث Twitter">
+<!ENTITY options.searchEngines.SurfCanyon "Search Surf Canyon">
+<!ENTITY options.searchEngines.Bing "بحث Bing">
+<!ENTITY options.searchEngines.Baidu "بحث Baidu">
+<!ENTITY options.searchEngines.Reddit "بحث Reddit">
+<!ENTITY options.searchEngines.YouTube "بحث YouTube">
+<!ENTITY options.searchEngines.Wiktionary "بحث في القاموس الحر">
+<!ENTITY options.searchEngines.Blekko "Search Blekko">
+<!ENTITY options.searchEngines.Google "بحث Google">
+<!ENTITY options.searchEngines.GoogleMaps "Search Google Maps">
+<!ENTITY options.searchResultsOptions "نتائج البحث">
+<!ENTITY options.addSearchRefinements "Add search Refinements">
+<!ENTITY options.addSimilarProductSearch "إضافة بحث منتج مماثل(Superfish)">
+<!ENTITY options.addRelatedSearchResultsAmazon "أضف نتائج من أمازون متعلقة بالبحث">
+<!ENTITY options.addRelatedSearchResultsOneriot "أضف نتائج من Oneriot متعلقة بالبحث">
+<!ENTITY options.addTrendingSearchResultsOneriot "أضف نتائج بحث trending Oneriot">
+<!ENTITY options.addSerpInfoBox "Add DuckDuckGo info boxes to search engines">
+<!ENTITY folder_chooser.choose_folder "إختر مجلد">
+<!ENTITY folder_chooser.destination_folder "موقع المجلد:">
+<!ENTITY folder_chooser.browse "إستعراض...">

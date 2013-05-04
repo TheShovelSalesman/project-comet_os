@@ -1,0 +1,65 @@
+<!ENTITY extension.name "FastestFox">
+<!ENTITY contextMenu.downloadPageMedia "Deskargatu orrialdeko esuakrriak">
+<!ENTITY contextMenu.downloadPageLinks "Deskargatu orrialdeko loturak">
+<!ENTITY contextMenu.downloadPageImages "Deskargatu orrialdeko irudiak">
+<!ENTITY contextMenu.downloadAllLinks "Deskargatu lotura guztiak">
+<!ENTITY contextMenu.downloadAllImages "Deskargatu irudi guztiak">
+<!ENTITY contextMenu.downloadSelection "Deskargatu hautatutakoa">
+<!ENTITY contextMenu.searchWikipedia "Bilatu hautapena Wikipedian">
+<!ENTITY contextMenu.removeSelection "Ezabatu hautapena">
+<!ENTITY options.window.title "FastestFox aukerak">
+<!ENTITY options.generalOptions "Orkorra">
+<!ENTITY options.searchOptions "Bilaketa aukerak">
+<!ENTITY options.showPopupBubble "Ikusi popup burbuila">
+<!ENTITY options.enhanceUrlbar "Hedatu barraz-txundigarria (berrabiarazi behar du)">
+<!ENTITY options.showContextMenuAdditions "Ikusi testuinguru menu hespaenak">
+<!ENTITY options.enableEndlessPages "Gaitu orrialde amaigabeak">
+<!ENTITY options.copyPaste "Kopiatu eta itsatsi">
+<!ENTITY options.wikipediaOptions "Wikipedia aukerak">
+<!ENTITY options.addRelatedArticles "Gehitu &quot;atzerako artikuluak&quot; Wikipediara">
+<!ENTITY options.addOtherSearchEngines "Gehitu beste bilaketa motor batzuek bilaketa emaitzei">
+<!ENTITY options.qlauncherOptions "qLauncher">
+<!ENTITY options.enableQlauncher "Gaitu qLauncher">
+<!ENTITY options.invokeQlauncher "Deitu qLauncher hau sakatuaz:">
+<!ENTITY options.qlauncherOpenNewTab "Ireki fitxa berrian">
+<!ENTITY options.copyAndPasteOptions "Kopiatu eta itsatsi aukerak">
+<!ENTITY options.autoCopySelected "Auto kopiatu hautatutakoa">
+<!ENTITY options.enableMiddleMousePaste "Itsatsi saguaren erdiko botoiaz">
+<!ENTITY options.enableRightMousePaste "Itsatsi saguaren eskuineko botoiaz">
+<!ENTITY options.enableLinkify "Lotura bihurtu testu url-ak">
+<!ENTITY options.otherOptions "Besteak">
+<!ENTITY options.feedbackCaption "Berrelikadura">
+<!ENTITY options.feedbackLabel "Iruzkinak, gomendioak edo porgrama-erroreak">
+<!ENTITY options.popupBubbleOptions "Popup burbuila">
+<!ENTITY options.popupBubbleDisplayAboveText "Display above text">
+<!ENTITY options.popupBubbleShowDefinitions "Ikusi definizioak">
+<!ENTITY options.popupBubbleShowLinkInfo "Show link info (Facebook / Twitter)">
+<!ENTITY options.popupBubbleShowLinkInfoAlways "Always show link info">
+<!ENTITY options.popupBubbleOpenNewTab "Ireki fitxa berrian">
+<!ENTITY options.popupBubbleForceSingleRow "Lerro bat bezala bistarazi">
+<!ENTITY options.searchEngines.caption "Bilaketa motorrak">
+<!ENTITY options.searchEngines.Wikipedia "Search Wikipedia">
+<!ENTITY options.searchEngines.OneRiot "Bilatu OneRiot">
+<!ENTITY options.searchEngines.IMDB "Bilati IMDB-n">
+<!ENTITY options.searchEngines.Yandex "Bilatu Yandex">
+<!ENTITY options.searchEngines.Delicious "Bilatu Delicious">
+<!ENTITY options.searchEngines.Twitter "Bilatu Twitter">
+<!ENTITY options.searchEngines.SurfCanyon "Bilatu Surf Canyon">
+<!ENTITY options.searchEngines.Bing "Bilatu Bing">
+<!ENTITY options.searchEngines.Baidu "Bilatu Baidu">
+<!ENTITY options.searchEngines.Reddit "Bilatu Reddit">
+<!ENTITY options.searchEngines.YouTube "Bilatu YouTube">
+<!ENTITY options.searchEngines.Wiktionary "Bilatu Wiktionary">
+<!ENTITY options.searchEngines.Blekko "Search Blekko">
+<!ENTITY options.searchEngines.Google "Bilatu Google">
+<!ENTITY options.searchEngines.GoogleMaps "Search Google Maps">
+<!ENTITY options.searchResultsOptions "Bilatu emaitzak">
+<!ENTITY options.addSearchRefinements "Gehitu bilaketa doikuntzak">
+<!ENTITY options.addSimilarProductSearch "Gehitu antzeko produktu bilaketa (superfish)">
+<!ENTITY options.addRelatedSearchResultsAmazon "Gehitu antzerako Amazon bilaketa ematzak">
+<!ENTITY options.addRelatedSearchResultsOneriot "GEhitu antzerako Oneriot bilaketa emaitzak">
+<!ENTITY options.addTrendingSearchResultsOneriot "Gehitu gorantzako Oneriot bilaketa emaitzak">
+<!ENTITY options.addSerpInfoBox "Add DuckDuckGo info boxes to search engines">
+<!ENTITY folder_chooser.choose_folder "Hautatu karpeta">
+<!ENTITY folder_chooser.destination_folder "Helburu karpeta:">
+<!ENTITY folder_chooser.browse "Arakatu...">

@@ -1,0 +1,65 @@
+<!ENTITY extension.name "FastestFox">
+<!ENTITY contextMenu.downloadPageMedia "Tải xuống tập tin đa phương tiện của trang">
+<!ENTITY contextMenu.downloadPageLinks "Tải xuống liên kết của trang">
+<!ENTITY contextMenu.downloadPageImages "Tải xuống hình ảnh của trang">
+<!ENTITY contextMenu.downloadAllLinks "Tải xuống tất cả các liên kết">
+<!ENTITY contextMenu.downloadAllImages "Tải xuống tất cả các hình ảnh">
+<!ENTITY contextMenu.downloadSelection "Tải xuống phần đã chọn">
+<!ENTITY contextMenu.searchWikipedia "Tìm kiếm phần đã chọn trên Wikipedia">
+<!ENTITY contextMenu.removeSelection "Xóa phần đã chọn">
+<!ENTITY options.window.title "Tùy chọn FastestFox">
+<!ENTITY options.generalOptions "Tổng quát">
+<!ENTITY options.searchOptions "Tùy chọn Tìm kiếm">
+<!ENTITY options.showPopupBubble "Hiện bong bóng popup">
+<!ENTITY options.enhanceUrlbar "Cải tiến Thanh Kì Diệu (yêu cầu khởi động lại)">
+<!ENTITY options.showContextMenuAdditions "Hiện phần thêm vào trên trình đơn ngữ cảnh">
+<!ENTITY options.enableEndlessPages "Bật 'Trang Vô Tận'">
+<!ENTITY options.copyPaste "Chép &amp; Dán">
+<!ENTITY options.wikipediaOptions "Tùy chọn Wikipedia">
+<!ENTITY options.addRelatedArticles "Thêm &quot;bài viết liên quan&quot; vào Wikipedia">
+<!ENTITY options.addOtherSearchEngines "Thêm các máy tìm kiếm khác vào kết quả tìm kiếm">
+<!ENTITY options.qlauncherOptions "qLauncher">
+<!ENTITY options.enableQlauncher "Bật qLauncher">
+<!ENTITY options.invokeQlauncher "Mở qLauncher bằng cách ấn:">
+<!ENTITY options.qlauncherOpenNewTab "Mở trong thẻ mới">
+<!ENTITY options.copyAndPasteOptions "Tùy chọn Chép và Dán">
+<!ENTITY options.autoCopySelected "Tự động chép phần đã chọn">
+<!ENTITY options.enableMiddleMousePaste "Dán khi ấn chuột giữa">
+<!ENTITY options.enableRightMousePaste "Dán khi ấn chuột phải">
+<!ENTITY options.enableLinkify "'Liên kết hóa' (Linkify) các url văn bản">
+<!ENTITY options.otherOptions "Khác">
+<!ENTITY options.feedbackCaption "Phản hồi">
+<!ENTITY options.feedbackLabel "Bình luận, đề nghị, hoặc báo cáo lỗi">
+<!ENTITY options.popupBubbleOptions "Bong bóng popup">
+<!ENTITY options.popupBubbleDisplayAboveText "Display above text">
+<!ENTITY options.popupBubbleShowDefinitions "Show definitions">
+<!ENTITY options.popupBubbleShowLinkInfo "Show link info (Facebook / Twitter)">
+<!ENTITY options.popupBubbleShowLinkInfoAlways "Always show link info">
+<!ENTITY options.popupBubbleOpenNewTab "Mở trong thẻ mới">
+<!ENTITY options.popupBubbleForceSingleRow "Hiển thị như một dòng đơn">
+<!ENTITY options.searchEngines.caption "Máy tìm kiếm">
+<!ENTITY options.searchEngines.Wikipedia "Search Wikipedia">
+<!ENTITY options.searchEngines.OneRiot "Tìm kiếm OneRiot">
+<!ENTITY options.searchEngines.IMDB "Search IMDB">
+<!ENTITY options.searchEngines.Yandex "Tìm kiếm Yandex">
+<!ENTITY options.searchEngines.Delicious "Tìm kiếm Delicious">
+<!ENTITY options.searchEngines.Twitter "Tìm kiếm Twitter">
+<!ENTITY options.searchEngines.SurfCanyon "Tìm kiếm Surf Canyon">
+<!ENTITY options.searchEngines.Bing "Tìm kiếm Bing">
+<!ENTITY options.searchEngines.Baidu "Tìm kiếm Baidu">
+<!ENTITY options.searchEngines.Reddit "Tìm kiếm Reddit">
+<!ENTITY options.searchEngines.YouTube "Tìm kiếm YouTube">
+<!ENTITY options.searchEngines.Wiktionary "Tìm kiếm Wiktionary">
+<!ENTITY options.searchEngines.Blekko "Search Blekko">
+<!ENTITY options.searchEngines.Google "Tìm kiếm Google">
+<!ENTITY options.searchEngines.GoogleMaps "Search Google Maps">
+<!ENTITY options.searchResultsOptions "Kết quả Tìm kiếm">
+<!ENTITY options.addSearchRefinements "Thêm thủ thuật lọc tìm kiếm">
+<!ENTITY options.addSimilarProductSearch "Add Similar Product Search (Superfish)">
+<!ENTITY options.addRelatedSearchResultsAmazon "Thêm kết quả tìm kiếm Amazon liên quan">
+<!ENTITY options.addRelatedSearchResultsOneriot "Thêm kết quả tìm kiếm Oneriot liên quan">
+<!ENTITY options.addTrendingSearchResultsOneriot "Add trending Oneriot search results">
+<!ENTITY options.addSerpInfoBox "Add DuckDuckGo info boxes to search engines">
+<!ENTITY folder_chooser.choose_folder "Chọn thư mục">
+<!ENTITY folder_chooser.destination_folder "Thư mục đích:">
+<!ENTITY folder_chooser.browse "Duyệt...">

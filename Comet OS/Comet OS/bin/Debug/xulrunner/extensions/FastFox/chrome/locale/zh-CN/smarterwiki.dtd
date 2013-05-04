@@ -1,0 +1,65 @@
+<!ENTITY extension.name "FastestFox (原 SmarterFox)">
+<!ENTITY contextMenu.downloadPageMedia "下载页面中的多媒体文件">
+<!ENTITY contextMenu.downloadPageLinks "下载页面中的链接">
+<!ENTITY contextMenu.downloadPageImages "下载页面中的图片">
+<!ENTITY contextMenu.downloadAllLinks "下载所有链接">
+<!ENTITY contextMenu.downloadAllImages "下载所有图片">
+<!ENTITY contextMenu.downloadSelection "下载选择项">
+<!ENTITY contextMenu.searchWikipedia "在维基百科搜索选取的文字">
+<!ENTITY contextMenu.removeSelection "取消选择">
+<!ENTITY options.window.title "SmartFox 选项">
+<!ENTITY options.generalOptions "一般">
+<!ENTITY options.searchOptions "搜索选项">
+<!ENTITY options.showPopupBubble "显示气泡">
+<!ENTITY options.enhanceUrlbar "加强地址栏（需要重启浏览器）">
+<!ENTITY options.showContextMenuAdditions "显示快捷菜单上的额外项目">
+<!ENTITY options.enableEndlessPages "启用自动翻页">
+<!ENTITY options.copyPaste "复制＆粘贴">
+<!ENTITY options.wikipediaOptions "维基百科选项">
+<!ENTITY options.addRelatedArticles "为维基百科添加“相关文章”">
+<!ENTITY options.addOtherSearchEngines "在搜索结果中加入其他搜索引擎的链接">
+<!ENTITY options.qlauncherOptions "qLauncher">
+<!ENTITY options.enableQlauncher "启用 qLauncher">
+<!ENTITY options.invokeQlauncher "调用 qLauncher 的按键：">
+<!ENTITY options.qlauncherOpenNewTab "在新标签页中打开">
+<!ENTITY options.copyAndPasteOptions "复制与粘贴选项">
+<!ENTITY options.autoCopySelected "自动复制选取的文字">
+<!ENTITY options.enableMiddleMousePaste "点击中键后粘贴">
+<!ENTITY options.enableRightMousePaste "点击右键后粘贴">
+<!ENTITY options.enableLinkify "为纯文本中的 URL 添加链接">
+<!ENTITY options.otherOptions "其他">
+<!ENTITY options.feedbackCaption "反馈">
+<!ENTITY options.feedbackLabel "评价，建议，或是漏洞提交">
+<!ENTITY options.popupBubbleOptions "弹出气泡">
+<!ENTITY options.popupBubbleDisplayAboveText "Display above text">
+<!ENTITY options.popupBubbleShowDefinitions "显示定义">
+<!ENTITY options.popupBubbleShowLinkInfo "Show link info (Facebook / Twitter)">
+<!ENTITY options.popupBubbleShowLinkInfoAlways "Always show link info">
+<!ENTITY options.popupBubbleOpenNewTab "在新标签页中打开">
+<!ENTITY options.popupBubbleForceSingleRow "按照单排显示">
+<!ENTITY options.searchEngines.caption "搜索引擎">
+<!ENTITY options.searchEngines.Wikipedia "Search Wikipedia">
+<!ENTITY options.searchEngines.OneRiot "搜索 OneRiot">
+<!ENTITY options.searchEngines.IMDB "搜索 IMDb">
+<!ENTITY options.searchEngines.Yandex "搜索 Яндекс">
+<!ENTITY options.searchEngines.Delicious "搜索 Delicious">
+<!ENTITY options.searchEngines.Twitter "搜索 Twitter">
+<!ENTITY options.searchEngines.SurfCanyon "搜索 Surf Canyon">
+<!ENTITY options.searchEngines.Bing "搜索 Bing">
+<!ENTITY options.searchEngines.Baidu "搜索百度">
+<!ENTITY options.searchEngines.Reddit "搜索 Reddit">
+<!ENTITY options.searchEngines.YouTube "搜索 YouTube">
+<!ENTITY options.searchEngines.Wiktionary "搜索维基词典">
+<!ENTITY options.searchEngines.Blekko "Search Blekko">
+<!ENTITY options.searchEngines.Google "搜索 Google">
+<!ENTITY options.searchEngines.GoogleMaps "Search Google Maps">
+<!ENTITY options.searchResultsOptions "搜索结果">
+<!ENTITY options.addSearchRefinements "微调优化搜索结果">
+<!ENTITY options.addSimilarProductSearch "添加类似产品搜索（Superfish）">
+<!ENTITY options.addRelatedSearchResultsAmazon "添加亚马逊相关搜索结果">
+<!ENTITY options.addRelatedSearchResultsOneriot "添加 OneRiot 相关搜索结果">
+<!ENTITY options.addTrendingSearchResultsOneriot "添加 OneRiot 潮流搜索结果">
+<!ENTITY options.addSerpInfoBox "Add DuckDuckGo info boxes to search engines">
+<!ENTITY folder_chooser.choose_folder "选择文件夹">
+<!ENTITY folder_chooser.destination_folder "目标目录：">
+<!ENTITY folder_chooser.browse "浏览…">

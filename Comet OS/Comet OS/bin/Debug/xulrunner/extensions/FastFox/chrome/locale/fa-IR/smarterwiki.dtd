@@ -1,0 +1,65 @@
+<!ENTITY extension.name "فستس فاکس">
+<!ENTITY contextMenu.downloadPageMedia "دریافت رسانه ی صفحه">
+<!ENTITY contextMenu.downloadPageLinks "دریافت رسانه ی صفحه">
+<!ENTITY contextMenu.downloadPageImages "دریافت عکس های صفحه">
+<!ENTITY contextMenu.downloadAllLinks "دریافت همه ی پیوندها صفحه">
+<!ENTITY contextMenu.downloadAllImages "دریافت همه ی عکس ها صفحه">
+<!ENTITY contextMenu.downloadSelection "دریافت گزینه ای">
+<!ENTITY contextMenu.searchWikipedia "قسمت انتخاب شپه را در ویکی پدیا جست وجو کن">
+<!ENTITY contextMenu.removeSelection "انتخاب شده را پاک کن">
+<!ENTITY options.window.title "گزینه های فستس فاکس">
+<!ENTITY options.generalOptions "کلی">
+<!ENTITY options.searchOptions "گزینه های جست وجو">
+<!ENTITY options.showPopupBubble "نمایش حباب">
+<!ENTITY options.enhanceUrlbar "اسامبار را توسعه بده (احتیاج به سروع دوباره فارفاکس دارد)">
+<!ENTITY options.showContextMenuAdditions "افزونه های منو ی کلیک راست را نشان بده">
+<!ENTITY options.enableEndlessPages "صفحات بی نهایت را فعال کن">
+<!ENTITY options.copyPaste "رونوشت و چسباندن">
+<!ENTITY options.wikipediaOptions "گزینه های ویکی پدیا">
+<!ENTITY options.addRelatedArticles "اضافه کردن مقاله های مرتبط به ویکی پدیا">
+<!ENTITY options.addOtherSearchEngines "اضافه کردن موتور های جست و جوی دیگر به نتایج جیت و جو">
+<!ENTITY options.qlauncherOptions "کیو لانچر">
+<!ENTITY options.enableQlauncher "روسن کردن کیو لانچر">
+<!ENTITY options.invokeQlauncher "روشن کردن کیو لانچر با فشار دادن :">
+<!ENTITY options.qlauncherOpenNewTab "باز کردن در زبانه جدید">
+<!ENTITY options.copyAndPasteOptions "گزینه های رونوشت و چشباندن">
+<!ENTITY options.autoCopySelected "رونوشت خود کار متن انتخاب شده">
+<!ENTITY options.enableMiddleMousePaste "چسباندن با کلیک وسط موشواره">
+<!ENTITY options.enableRightMousePaste "چسباندن با کلیک رایت موشواره">
+<!ENTITY options.enableLinkify "متون را به پیوند تبدیل کن">
+<!ENTITY options.otherOptions "دیگر">
+<!ENTITY options.feedbackCaption "بازخورد">
+<!ENTITY options.feedbackLabel "نظرات،پیشنهادات یا انتقال ایرادها">
+<!ENTITY options.popupBubbleOptions "جباب">
+<!ENTITY options.popupBubbleDisplayAboveText "Display above text">
+<!ENTITY options.popupBubbleShowDefinitions "معنی را نشان بده">
+<!ENTITY options.popupBubbleShowLinkInfo "Show link info (Facebook / Twitter)">
+<!ENTITY options.popupBubbleShowLinkInfoAlways "Always show link info">
+<!ENTITY options.popupBubbleOpenNewTab "در زبانه ی جدید باز کن">
+<!ENTITY options.popupBubbleForceSingleRow "همه را در یک صف نشان بده">
+<!ENTITY options.searchEngines.caption "موتور های جست و جو">
+<!ENTITY options.searchEngines.Wikipedia "Search Wikipedia">
+<!ENTITY options.searchEngines.OneRiot "جست وجو در وان رویت">
+<!ENTITY options.searchEngines.IMDB "Search IMDB">
+<!ENTITY options.searchEngines.Yandex "جست وجو در یاندکس">
+<!ENTITY options.searchEngines.Delicious "جست وجو در دلیشس">
+<!ENTITY options.searchEngines.Twitter "جست وجو در توییتر">
+<!ENTITY options.searchEngines.SurfCanyon "جست وجو در کانیون سرف">
+<!ENTITY options.searchEngines.Bing "جست وجو در بینگ">
+<!ENTITY options.searchEngines.Baidu "جست وجو در بایدو">
+<!ENTITY options.searchEngines.Reddit "جست وجو در ردیت">
+<!ENTITY options.searchEngines.YouTube "جست وجو در یوتوب">
+<!ENTITY options.searchEngines.Wiktionary "جست وجو در ویکتونری">
+<!ENTITY options.searchEngines.Blekko "Search Blekko">
+<!ENTITY options.searchEngines.Google "جست وجو در گوگل">
+<!ENTITY options.searchEngines.GoogleMaps "Search Google Maps">
+<!ENTITY options.searchResultsOptions "نتایج جست و جو">
+<!ENTITY options.addSearchRefinements "جست و جو های کمی را اضافه کن">
+<!ENTITY options.addSimilarProductSearch "محصوالات مشابه را اضافه کن (سوپر فیش)">
+<!ENTITY options.addRelatedSearchResultsAmazon "اضافه کردننتایج  جست و جو های مرتبط  آمازون">
+<!ENTITY options.addRelatedSearchResultsOneriot "اضافه کردننتایج  جست و جو های مرتبط  وان رویت">
+<!ENTITY options.addTrendingSearchResultsOneriot "اضافه کردن جست و  جو های مرشوم به نتایج وان رویت">
+<!ENTITY options.addSerpInfoBox "Add DuckDuckGo info boxes to search engines">
+<!ENTITY folder_chooser.choose_folder "انتخاب پوشه">
+<!ENTITY folder_chooser.destination_folder "پوشه ی مقصد:">
+<!ENTITY folder_chooser.browse "مرور">

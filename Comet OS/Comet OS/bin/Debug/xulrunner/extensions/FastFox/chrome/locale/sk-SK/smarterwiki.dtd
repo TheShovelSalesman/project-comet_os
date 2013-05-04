@@ -1,0 +1,65 @@
+<!ENTITY extension.name "FastestFox">
+<!ENTITY contextMenu.downloadPageMedia "Stiahnuť médiá zo stránky">
+<!ENTITY contextMenu.downloadPageLinks "Stiahnuť odkazy na stránke">
+<!ENTITY contextMenu.downloadPageImages "Stiahnuť obrázky na stránke">
+<!ENTITY contextMenu.downloadAllLinks "Stiahnuť všetky odkazy">
+<!ENTITY contextMenu.downloadAllImages "Stiahnuť všetky obrázky">
+<!ENTITY contextMenu.downloadSelection "Stiahnuť výber">
+<!ENTITY contextMenu.searchWikipedia "Hľadať výber na Wikipédii">
+<!ENTITY contextMenu.removeSelection "Odstrániť výber">
+<!ENTITY options.window.title "Možnosti FastestFox-u">
+<!ENTITY options.generalOptions "Všeobecné">
+<!ENTITY options.searchOptions "Možnosti hľadania">
+<!ENTITY options.showPopupBubble "Zobraziť vyskakovaciu bublinu">
+<!ENTITY options.enhanceUrlbar "Vylepšiť Awesomebar (vyžaduje reštart)">
+<!ENTITY options.showContextMenuAdditions "Zobraziť doplnky v kontextovom menu">
+<!ENTITY options.enableEndlessPages "Zapnúť Nekonečné stránky">
+<!ENTITY options.copyPaste "Kopírovať a Vložiť">
+<!ENTITY options.wikipediaOptions "Možnosti Wikipédia">
+<!ENTITY options.addRelatedArticles "Pridať &quot;súvisiace články&quot; na Wikipédiu">
+<!ENTITY options.addOtherSearchEngines "Pridať ostatné vyhľadávače k výsledkom hľadania">
+<!ENTITY options.qlauncherOptions "qLauncher">
+<!ENTITY options.enableQlauncher "Zapnúť qLauncher">
+<!ENTITY options.invokeQlauncher "Vyvolať qLauncher stlačením">
+<!ENTITY options.qlauncherOpenNewTab "Otvoriť na novej karte">
+<!ENTITY options.copyAndPasteOptions "Možnosti Kopírovať a Vložiť">
+<!ENTITY options.autoCopySelected "Automaticky kopírovať vybrané">
+<!ENTITY options.enableMiddleMousePaste "Vložiť stredným kliknutím myši">
+<!ENTITY options.enableRightMousePaste "Vložiť pravým kliknutím myši">
+<!ENTITY options.enableLinkify "Zmeniť textové odkazy na hypertext">
+<!ENTITY options.otherOptions "Iné">
+<!ENTITY options.feedbackCaption "Spätná väzba">
+<!ENTITY options.feedbackLabel "Komentáre, návrhy alebo hlásenia chýb">
+<!ENTITY options.popupBubbleOptions "Vyskakovacia bublina">
+<!ENTITY options.popupBubbleDisplayAboveText "Display above text">
+<!ENTITY options.popupBubbleShowDefinitions "Zobraziť popisy">
+<!ENTITY options.popupBubbleShowLinkInfo "Ukázať info o odkaze (Facebook / Twitter)">
+<!ENTITY options.popupBubbleShowLinkInfoAlways "Vždy zobraziť info o odkaze">
+<!ENTITY options.popupBubbleOpenNewTab "Otvoriť na novej karte">
+<!ENTITY options.popupBubbleForceSingleRow "Zobraziť ako jeden rad">
+<!ENTITY options.searchEngines.caption "Vyhľadávače">
+<!ENTITY options.searchEngines.Wikipedia "Search Wikipedia">
+<!ENTITY options.searchEngines.OneRiot "Hľadať cez OneRiot">
+<!ENTITY options.searchEngines.IMDB "Hľadať v IMDB">
+<!ENTITY options.searchEngines.Yandex "Hľadať cez Yandex">
+<!ENTITY options.searchEngines.Delicious "Hľadať na Delicious">
+<!ENTITY options.searchEngines.Twitter "Hľadať na Twitter-i">
+<!ENTITY options.searchEngines.SurfCanyon "Hľadať na Surf Canyon">
+<!ENTITY options.searchEngines.Bing "Hľadať na Bing">
+<!ENTITY options.searchEngines.Baidu "Hľadať na Baidu">
+<!ENTITY options.searchEngines.Reddit "Hľadať na Reddit">
+<!ENTITY options.searchEngines.YouTube "Hľadať na YouTube">
+<!ENTITY options.searchEngines.Wiktionary "Hľadať na Wiktionary">
+<!ENTITY options.searchEngines.Blekko "Search Blekko">
+<!ENTITY options.searchEngines.Google "Hľadať na Google">
+<!ENTITY options.searchEngines.GoogleMaps "Search Google Maps">
+<!ENTITY options.searchResultsOptions "Výsledky hľadania">
+<!ENTITY options.addSearchRefinements "Pridať zlepšenie hľadania">
+<!ENTITY options.addSimilarProductSearch "Pridať hľadanie podobného produktu (Superfish)">
+<!ENTITY options.addRelatedSearchResultsAmazon "Pridať súvisiace výsledky hľadania z Amazon">
+<!ENTITY options.addRelatedSearchResultsOneriot "Pridať súvisiace výsledky vyhľadávania Oneriot">
+<!ENTITY options.addTrendingSearchResultsOneriot "Pridať trendové výsledky vyhľadávania Oneriot">
+<!ENTITY options.addSerpInfoBox "Add DuckDuckGo info boxes to search engines">
+<!ENTITY folder_chooser.choose_folder "Vybrať adresár">
+<!ENTITY folder_chooser.destination_folder "Cieľový adresár">
+<!ENTITY folder_chooser.browse "Prehľadávať...">

@@ -1,0 +1,94 @@
+<!ENTITY slow.column "Удаан шүүлтүүрүүд">
+<!ENTITY subscription.lastDownload.checksumMismatch "Бүтэлгүйтлээ, шалгалт таарсангүй">
+<!ENTITY lasthit.column "Сүүлийн хандалт">
+<!ENTITY viewMenu.label "Харах">
+<!ENTITY sort.accesskey "Э">
+<!ENTITY sort.ascending.label "А &gt; Я эрэмбэлэх">
+<!ENTITY sort.label "Эрэмбэлэх нь">
+<!ENTITY filter.paste.label "Тавих">
+<!ENTITY filter.accesskey "Ш">
+<!ENTITY sort.ascending.accesskey "А">
+<!ENTITY subscription.lastDownload.inProgress "Татаж байна...">
+<!ENTITY enabled.accesskey "И">
+<!ENTITY filter.delete.label "Устгах">
+<!ENTITY enabled.column "Идэвхтэй">
+<!ENTITY slow.accesskey "У">
+<!ENTITY lasthit.accesskey "С">
+<!ENTITY hitcount.accesskey "Х">
+<!ENTITY subscription.lastDownload.invalidURL "Бүтэлгүйтэв, буруу хаяг">
+<!ENTITY hitcount.column "Хандалт">
+<!ENTITY filter.cut.label "Хайчлах">
+<!ENTITY addSubscriptionOther.label "Өөр мэдээлэгч нэмэх">
+<!ENTITY sort.none.label "Эрэмбэ үгүй">
+<!ENTITY filter.copy.label "Хуулах">
+<!ENTITY sort.none.accesskey "Ү">
+<!ENTITY addSubscription.label "Шүүлтүүр мэдээлэгч нэмэх">
+<!ENTITY sort.descending.accesskey "Я">
+<!ENTITY find.label "Хайх">
+<!ENTITY sort.descending.label "Я &gt; А эрэмбэлэх">
+<!ENTITY subscription.lastDownload.connectionError "Бүтэлгүйтэв, таталтын бүтэлгүйтэл">
+<!ENTITY subscription.lastDownload.success "Амжилттай">
+<!ENTITY subscription.lastDownload.invalidData "Бүтэлгүйтэв, буруу шүүлтүүрийн жагсаалт">
+<!ENTITY addFilter.label "Шүүлт нэмэх">
+<!ENTITY subscription.lastDownload.label "Сүүлийн таталт:">
+<!ENTITY filter.column "Шүүх дүрэм">
+<!ENTITY addFilter.accesskey "d">
+<!ENTITY subscription.delete.label "Delete">
+<!ENTITY subscriptions.tab.label "Filter subscriptions">
+<!ENTITY addGroup.accesskey "g">
+<!ENTITY subscription.update.label "Update filters">
+<!ENTITY restore.complete.warning "All your filter preferences will be replaced by the contents of the selected file. Do you want to proceeed?">
+<!ENTITY filter.moveUp.label "Move up">
+<!ENTITY filter.edit.label "Edit">
+<!ENTITY acceptableAds2.label "Allow some non-intrusive advertising">
+<!ENTITY close.label "Close">
+<!ENTITY find.accesskey "n">
+<!ENTITY readMore.label "Read more">
+<!ENTITY subscription.homepage.label "Homepage">
+<!ENTITY typoCorrections.enableLabel "Correct mistyped internet addresses">
+<!ENTITY filters.remove.warning "Do you really want to remove all selected filters?">
+<!ENTITY restore.custom.warning "All your custom filters will be replaced by the contents of the selected file. Do you want to proceeed?">
+<!ENTITY subscription.actions.label "Actions">
+<!ENTITY filter.selectAll.label "Select All">
+<!ENTITY backupButton.label "Backup and Restore">
+<!ENTITY subscription.source.label "Filter list">
+<!ENTITY addSubscription.accesskey "f">
+<!ENTITY addSubscriptionAdd.label "Add">
+<!ENTITY subscription.showHideFilters.label "Show/hide filters">
+<!ENTITY backupButton.accesskey "B">
+<!ENTITY filter.actions.label "Filter actions">
+<!ENTITY filter.moveDown.label "Move down">
+<!ENTITY typoCorrections.tab.label "Typo corrections">
+<!ENTITY subscription.editTitle.label "Edit title">
+<!ENTITY subscription.moveDown.label "Move down">
+<!ENTITY subscription.disabledFilters.warning "Some filters in this subscription are disabled.">
+<!ENTITY noFiltersInGroup.text "The selected group is empty.">
+<!ENTITY typoCorrections.whitelistLabel "Don't Replace...">
+<!ENTITY noFilters.text "You don't have any custom filters yet.">
+<!ENTITY subscription.external.label "Updated by another extension">
+<!ENTITY noGroupSelected.text "You need to select a filter group before its filters can be displayed.">
+<!ENTITY typoCorrections.removeButtonLabel "Remove Selected">
+<!ENTITY addSubscriptionCancel.label "Cancel">
+<!ENTITY dialog.title "Adblock Plus Filter Preferences">
+<!ENTITY subscription.minVersion.warning "This filter subscription requires a newer Adblock Plus version, you should update to the latest Adblock Plus version.">
+<!ENTITY backup.error "There was an error writing filters to the file. Make sure that the file isn't write protected or in use by another application.">
+<!ENTITY restore.error "The file's data could not be processed, maybe this isn't an Adblock Plus backup file?">
+<!ENTITY backup.custom.title "Custom filters only">
+<!ENTITY subscription.moveUp.label "Move up">
+<!ENTITY backup.complete.title "All filters and subscriptions">
+<!ENTITY filters.tab.label "Custom filters">
+<!ENTITY restore.minVersion.warning "Warning: the file has been created with a newer Adblock Plus version. You should update to the latest Adblock Plus version before restoring from this file.">
+<!ENTITY viewList.label "View list">
+<!ENTITY typoCorrections.whitelistEmptyLabel "There are currently no exceptions.">
+<!ENTITY restore.default.label "Restore backup from ?1?">
+<!ENTITY acceptableAds2.accesskey "i">
+<!ENTITY subscription.lastDownload.unknown "N/A">
+<!ENTITY subscription.enabled.label "Enabled">
+<!ENTITY noSubscriptions.text "You haven't added any filter subscriptions yet. Adblock Plus won't block
+  anything without filters, please use &quot;Add filter subscription&quot; to
+  add some.">
+<!ENTITY addGroup.label "Add filter group">
+<!ENTITY restore.own.label "Restore own backup">
+<!ENTITY filter.resetHitCounts.label "Reset hit statistics">
+<!ENTITY backup.label "Create new backup">
+<!ENTITY subscription.disabledFilters.enable "Enable disabled filters">

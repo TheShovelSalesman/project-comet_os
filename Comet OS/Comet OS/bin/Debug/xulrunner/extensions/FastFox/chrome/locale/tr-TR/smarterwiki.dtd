@@ -1,0 +1,65 @@
+<!ENTITY extension.name "FastestFox">
+<!ENTITY contextMenu.downloadPageMedia "Sayfadaki ortam ogelerini indir">
+<!ENTITY contextMenu.downloadPageLinks "Sayfadaki bağlantıları indir">
+<!ENTITY contextMenu.downloadPageImages "Sayfadaki resimleri indir">
+<!ENTITY contextMenu.downloadAllLinks "Tüm bağlantıları indir">
+<!ENTITY contextMenu.downloadAllImages "Tüm resimleri indir">
+<!ENTITY contextMenu.downloadSelection "Seçimi indir">
+<!ENTITY contextMenu.searchWikipedia "seçimi Wikipedia'da ara">
+<!ENTITY contextMenu.removeSelection "Seçimi sil">
+<!ENTITY options.window.title "FastestFox Seçenekleri">
+<!ENTITY options.generalOptions "Genel">
+<!ENTITY options.searchOptions "Arama Seçenekleri">
+<!ENTITY options.showPopupBubble "Beliren balonu göster">
+<!ENTITY options.enhanceUrlbar "Müthiş çubuğu ekle (yeniden başlatmak gerekir)">
+<!ENTITY options.showContextMenuAdditions "Sağ tuş menüsü eklentilerini göster">
+<!ENTITY options.enableEndlessPages "Sonsuz Sayfaları etkinleştir">
+<!ENTITY options.copyPaste "Kopyala &amp; Yapıştır">
+<!ENTITY options.wikipediaOptions "Wikipedia Seçenekleri">
+<!ENTITY options.addRelatedArticles "Wikipedia'ya &quot;ilişkili makaleleri&quot; Ekle">
+<!ENTITY options.addOtherSearchEngines "Arama sonuçlarına diğer arama motorlarını ekle">
+<!ENTITY options.qlauncherOptions "qLauncher">
+<!ENTITY options.enableQlauncher "qLauncher'ı etkinleştir">
+<!ENTITY options.invokeQlauncher "qLauncher çalıştıran tuş kobinasyonu:">
+<!ENTITY options.qlauncherOpenNewTab "Yeni sekmede aç">
+<!ENTITY options.copyAndPasteOptions "Kopyala ve Yapıştır Seçenekleri">
+<!ENTITY options.autoCopySelected "Otomatik kopyalama seçildi">
+<!ENTITY options.enableMiddleMousePaste "Orta fare tuşuna tıklayınca yapıştır">
+<!ENTITY options.enableRightMousePaste "Sağ fare tıklaması ile yapıştır">
+<!ENTITY options.enableLinkify "Metin web adreslerini bağlantı haline getir">
+<!ENTITY options.otherOptions "Diğer">
+<!ENTITY options.feedbackCaption "Geribildirim">
+<!ENTITY options.feedbackLabel "Yorumlar, öneriler veya hata bildirimleri">
+<!ENTITY options.popupBubbleOptions "Beliren balon">
+<!ENTITY options.popupBubbleDisplayAboveText "Display above text">
+<!ENTITY options.popupBubbleShowDefinitions "Tanımları göster">
+<!ENTITY options.popupBubbleShowLinkInfo "Show link info (Facebook / Twitter)">
+<!ENTITY options.popupBubbleShowLinkInfoAlways "Always show link info">
+<!ENTITY options.popupBubbleOpenNewTab "Yeni sekmede aç">
+<!ENTITY options.popupBubbleForceSingleRow "Tek satıur olarak göster">
+<!ENTITY options.searchEngines.caption "Arama Motorları">
+<!ENTITY options.searchEngines.Wikipedia "Search Wikipedia">
+<!ENTITY options.searchEngines.OneRiot "OneRiot'da Ara">
+<!ENTITY options.searchEngines.IMDB "Search IMDB">
+<!ENTITY options.searchEngines.Yandex "Yandex'de Ara">
+<!ENTITY options.searchEngines.Delicious "Delicious'da Ara">
+<!ENTITY options.searchEngines.Twitter "Twitter'de Ara">
+<!ENTITY options.searchEngines.SurfCanyon "Surf Canyon'da Ara">
+<!ENTITY options.searchEngines.Bing "Bing'de Ara">
+<!ENTITY options.searchEngines.Baidu "Baidu'da Ara">
+<!ENTITY options.searchEngines.Reddit "Reddit'de Ara">
+<!ENTITY options.searchEngines.YouTube "YouTube'da Ara">
+<!ENTITY options.searchEngines.Wiktionary "Wiktionary'de Ara">
+<!ENTITY options.searchEngines.Blekko "Search Blekko">
+<!ENTITY options.searchEngines.Google "Google'da Ara">
+<!ENTITY options.searchEngines.GoogleMaps "Search Google Maps">
+<!ENTITY options.searchResultsOptions "Sonuçlarda Ara">
+<!ENTITY options.addSearchRefinements "Arama İnce Ayarlarını Ekle">
+<!ENTITY options.addSimilarProductSearch "Add Similar Product Search (Superfish)">
+<!ENTITY options.addRelatedSearchResultsAmazon "İlişkili Amazon arama sonuçlarını ekle">
+<!ENTITY options.addRelatedSearchResultsOneriot "İlişkili Oneriot arama sonuçlarını ekle">
+<!ENTITY options.addTrendingSearchResultsOneriot "Oneriot sık arananlar sonuçlarını ekle">
+<!ENTITY options.addSerpInfoBox "Add DuckDuckGo info boxes to search engines">
+<!ENTITY folder_chooser.choose_folder "Dizin Seç">
+<!ENTITY folder_chooser.destination_folder "Hedef dizin:">
+<!ENTITY folder_chooser.browse "Aç...">

@@ -1,0 +1,65 @@
+<!ENTITY extension.name "SmarterFox">
+<!ENTITY contextMenu.downloadPageMedia "Загрузка медиа">
+<!ENTITY contextMenu.downloadPageLinks "Загрузка страничных ссылок">
+<!ENTITY contextMenu.downloadPageImages "Загрузка страничных изображений">
+<!ENTITY contextMenu.downloadAllLinks "Скачать все ссылки">
+<!ENTITY contextMenu.downloadAllImages "Скачать все изображения">
+<!ENTITY contextMenu.downloadSelection "Скачать выделенное">
+<!ENTITY contextMenu.searchWikipedia "Поиск выделенного в Википедии">
+<!ENTITY contextMenu.removeSelection "Убрать выделение">
+<!ENTITY options.window.title "Настройки SmarterFox">
+<!ENTITY options.generalOptions "Общие">
+<!ENTITY options.searchOptions "Настройки поиска">
+<!ENTITY options.showPopupBubble "Показывать всплывающий пузырь">
+<!ENTITY options.enhanceUrlbar "Улучшенный Awesomebar (требуется перезапуск)">
+<!ENTITY options.showContextMenuAdditions "Показать контекстное меню дополнений">
+<!ENTITY options.enableEndlessPages "Разрешить &quot;бесконечные страницы&quot;">
+<!ENTITY options.copyPaste "Копировать &amp; Вставить">
+<!ENTITY options.wikipediaOptions "Настройки Википедии">
+<!ENTITY options.addRelatedArticles "Добавить &quot;похожие статьи&quot; в Википедию">
+<!ENTITY options.addOtherSearchEngines "Добавить другие поисковые системы для поиска">
+<!ENTITY options.qlauncherOptions "qLauncher">
+<!ENTITY options.enableQlauncher "Разрешить qLauncher">
+<!ENTITY options.invokeQlauncher "Вызывать qLauncher нажатием:">
+<!ENTITY options.qlauncherOpenNewTab "Открыть в новой вкладке">
+<!ENTITY options.copyAndPasteOptions "Настройки Копирования/Вставки">
+<!ENTITY options.autoCopySelected "Автокопирование выделенного">
+<!ENTITY options.enableMiddleMousePaste "Вставка кликом средней кнопки мыши">
+<!ENTITY options.enableRightMousePaste "Вставка кликом правой кнопки мыши">
+<!ENTITY options.enableLinkify "Преобразовать текстовые URL-ы в ссылки">
+<!ENTITY options.otherOptions "Другие">
+<!ENTITY options.feedbackCaption "Обратная связь">
+<!ENTITY options.feedbackLabel "Комментарии, предложения или сообщения об ошибках">
+<!ENTITY options.popupBubbleOptions "Всплывающий пузырь">
+<!ENTITY options.popupBubbleDisplayAboveText "Display above text">
+<!ENTITY options.popupBubbleShowDefinitions "Show definitions">
+<!ENTITY options.popupBubbleShowLinkInfo "Show link info (Facebook / Twitter)">
+<!ENTITY options.popupBubbleShowLinkInfoAlways "Always show link info">
+<!ENTITY options.popupBubbleOpenNewTab "Открыть в новой вкладке">
+<!ENTITY options.popupBubbleForceSingleRow "Отображать одной строкой">
+<!ENTITY options.searchEngines.caption "Поисковые системы">
+<!ENTITY options.searchEngines.Wikipedia "Search Wikipedia">
+<!ENTITY options.searchEngines.OneRiot "Поиск OneRiot">
+<!ENTITY options.searchEngines.IMDB "Search IMDB">
+<!ENTITY options.searchEngines.Yandex "Поиск в Yandex">
+<!ENTITY options.searchEngines.Delicious "Поиск Delicious">
+<!ENTITY options.searchEngines.Twitter "Поиск Twitter">
+<!ENTITY options.searchEngines.SurfCanyon "Поиск Surf Canyon">
+<!ENTITY options.searchEngines.Bing "Поиск Bing">
+<!ENTITY options.searchEngines.Baidu "Поиск Baidu">
+<!ENTITY options.searchEngines.Reddit "Поиск Reddit">
+<!ENTITY options.searchEngines.YouTube "Поиск YouTube">
+<!ENTITY options.searchEngines.Wiktionary "Поиск в Wiktionary">
+<!ENTITY options.searchEngines.Blekko "Search Blekko">
+<!ENTITY options.searchEngines.Google "Поиск Google">
+<!ENTITY options.searchEngines.GoogleMaps "Search Google Maps">
+<!ENTITY options.searchResultsOptions "Результаты поиска">
+<!ENTITY options.addSearchRefinements "Добавить уточнения поиска">
+<!ENTITY options.addSimilarProductSearch "Add Similar Product Search (Superfish)">
+<!ENTITY options.addRelatedSearchResultsAmazon "Добавить соответствующие результаты поиска в Amazon">
+<!ENTITY options.addRelatedSearchResultsOneriot "Добавить соответствующие результаты поиска в Oneriot">
+<!ENTITY options.addTrendingSearchResultsOneriot "Add trending Oneriot search results">
+<!ENTITY options.addSerpInfoBox "Add DuckDuckGo info boxes to search engines">
+<!ENTITY folder_chooser.choose_folder "Выбрать папку">
+<!ENTITY folder_chooser.destination_folder "Папка назначения:">
+<!ENTITY folder_chooser.browse "Просмотр...">
